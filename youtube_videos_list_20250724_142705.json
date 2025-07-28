@@ -1,0 +1,1383 @@
+{
+  "channel_id": "UC2vzie-A3l9tCf3vAx8gO1w",
+  "total_videos": 3,
+  "total_skipped": 27,
+  "collected_at": "2025-07-24T14:27:05.275720",
+  "original_response_keys": [
+    "responseContext",
+    "nextPageToken",
+    "videos",
+    "videosTotalSize"
+  ],
+  "videos": [
+    {
+      "collected_at": "2025-07-24T14:27:05.268326",
+      "raw_data": {
+        "videoId": "MNDICwtk-60",
+        "title": "전세 사기 당하고, 연 3억 버는 구조 만든 35살",
+        "description": "",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UC2vzie-A3l9tCf3vAx8gO1w",
+        "timePublishedSeconds": "1753178773",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi/MNDICwtk-60/default.jpg?v=6881bb50&sqp=CKyHh8QG&rs=AOn4CLA8gMO0Y_mlXYlkOlku9_MCQ7GiZA",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/MNDICwtk-60/mqdefault.jpg?v=6881bb50&sqp=CKyHh8QG&rs=AOn4CLA3hj_ZuZrA9LH9-J_4U3Ocln7jWg",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/MNDICwtk-60/hqdefault.jpg?v=6881bb50&sqp=CKyHh8QG&rs=AOn4CLCfDs8f1quZPa32q22oW8aE92zCvw",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/MNDICwtk-60/sddefault.jpg?v=6881bb50&sqp=CKyHh8QG&rs=AOn4CLAINnQsPmT6DNRGCSfFtKSUJwuenQ",
+              "width": 640,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/MNDICwtk-60/hq720.jpg?v=6881bb50&sqp=CKyHh8QG-oaymwEfCIAKENAFSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLALzfISFCaxf1A3t8uKovwGMEm2KA",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/MNDICwtk-60/maxresdefault.jpg?v=6881bb50&sqp=CKyHh8QG&rs=AOn4CLCrBq725H2ZUB2IdLj_DUaWivxR_g",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_MANAGER"
+          ]
+        },
+        "lengthSeconds": "822",
+        "timeCreatedSeconds": "1753162688",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "thumbnailEditorState": {
+          "stills": [
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi/MNDICwtk-60/mq1.jpg?sqp=CKyHh8QG&rs=AOn4CLCptIVc07kj3va3Ionhu7azAn-Mwg",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi/MNDICwtk-60/mq2.jpg?sqp=CKyHh8QG&rs=AOn4CLB9ZnJmxMUl2J9N_QEzKKyla_rSUQ",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi/MNDICwtk-60/mq3.jpg?sqp=CKyHh8QG&rs=AOn4CLA5RCWhhvkkI_dka-Gj_Ypl-u1EuA",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            }
+          ],
+          "stillId": 0,
+          "downloadUrl": "https://i9.ytimg.com/vi/MNDICwtk-60/maxresdefault.jpg?v=6881bb50&sqp=CKyHh8QG&rs=AOn4CLCrBq725H2ZUB2IdLj_DUaWivxR_g",
+          "defaultStill": false
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customThumbnails": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "playVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "shareVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "editVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "deleteVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "ageGatedUi": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "tvType": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "regionalAvailability": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "genreInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "episodeInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "releaseTime": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "primetimeAnalytics": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "broadcastStreamSettings": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "sphericalSetting": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "titleAndDescription": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "captionSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "recordingDate": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "remixSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "sponsorsOnlyVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "videoProductTagging": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "creatorMusicLicensing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "shortsAdsMonetization": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "automatedDubbing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "metadataExperiment": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "multiTrackAudio": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "autoDubDefaultOn": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "collaboration": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=MNDICwtk-60&t=QUFFLUhqbWFEam9KbllFQW5Xd0x4ZFpNSFZoVmtRQmNBUXxBQ3Jtc0tsOTE2dGNRcVN3YjdpbGVMRXVtUVpSVVk0Q0pyMlRYdHJPeWxERlBRNXVnZ1Y3X0FvU0FFNmc0am9lRkhQdzJMVG5vb2J5QUdjaDNZVlZFREZPcUpkdkVNa1VNS19DSlV2YS12dXJ1VkVqbmJVdkp2Zw%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=MNDICwtk-60",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_EDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "videoStreamUrl": "https://rr3---sn-ogul7n7d.c.youtube.com/videoplayback?expire=1753363621&ei=JcSBaPvgOLLws8IP-N_gqQc&ip=220.118.212.147&cp=X19UZGJ3cWctME1EUUhSS0M6eDlRdjM3RXVGdU56Q2xaZ1E2b2RFV2JsUHBYN0EtTGlJSEtQU1RwejE3bA&id=30d0c80b0b64fbad&itag=18&source=youtube&requiressl=yes&xpc=Egho2aDSNXoBAQ%3D%3D&met=1753334821%2C&mh=SL&mm=32&mn=sn-ogul7n7d&ms=su&mv=m&mvi=3&pl=17&rms=su%2Csu&sc=yes&susc=ytcp&mime=video%2Fmp4&vprv=1&rqh=1&ratebypass=yes&dur=821.654&lmt=1753233847751675&mt=1753334438&txp=6309224&sparams=expire%2Cei%2Cip%2Ccp%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Cmime%2Cvprv%2Crqh%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAPZCZB_vNphZQkEkP8BzQ7b1y615U0EAHYMylO08v06zAiAA9TJQkUSgNSNQQNc6thojNUnOJ-GoJLs_IHmOKqFDyw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Csc&lsig=APaTxxMwRAIgde0kWbqeuA_jBicVwDIhnjlGKGB0u2vQz3n7-Rk0ZTECIGz-Rxpe7ZeT75zDDONw09WEtpkob-ZPbAL8zEhWZaFJ",
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "전세 사기 당하고, 연 3억 버는 구조 만든 35살"
+            }
+          ]
+        },
+        "allRestrictions": {},
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_DONE",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true,
+          "videoUploadChecksMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          },
+          "videoUploadChecksNotMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          }
+        },
+        "privateShare": {},
+        "publicShorts": {
+          "isShortsRenderable": false
+        },
+        "remix": {
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "privateMetrics": {
+          "clipCount": "0",
+          "dislikeCount": "1"
+        },
+        "publicMetrics": {
+          "viewCount": "374",
+          "commentCount": "2",
+          "likeCount": "8",
+          "externalViewCount": "374"
+        },
+        "shorts": {
+          "isShortsRenderable": false
+        },
+        "shareUrl": "https://youtu.be/MNDICwtk-60",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "tvfilmMetadata": {},
+        "videoCreatorExperiment": {
+          "armCount": "CREATOR_EXPERIMENT_ARM_COUNT_UNSPECIFIED",
+          "state": "CREATOR_EXPERIMENT_STATE_DELETED",
+          "finishedReason": "CREATOR_EXPERIMENT_FINISHED_REASON_UNSPECIFIED",
+          "selectedArm": "CREATOR_EXPERIMENT_ARM_UNSPECIFIED",
+          "result": {
+            "resultState": "CREATOR_EXPERIMENT_RESULT_STATE_UNSPECIFIED",
+            "winnerArm": "CREATOR_EXPERIMENT_ARM_UNSPECIFIED"
+          },
+          "resultsDisplayed": false,
+          "experimentConfiguration": {
+            "hasThumbnails": false,
+            "hasTitles": false
+          }
+        },
+        "loggingDirectives": {
+          "trackingParams": "CB0QiI4CGAAiEwj-pN-Z4dSOAxUBP3sHHTuGBlM="
+        }
+      },
+      "videoId": "MNDICwtk-60",
+      "title": "전세 사기 당하고, 연 3억 버는 구조 만든 35살",
+      "description": "",
+      "privacy": "VIDEO_PRIVACY_PUBLIC",
+      "lengthSeconds": "822",
+      "timeCreatedSeconds": "1753162688",
+      "timePublishedSeconds": "1753178773",
+      "status": "VIDEO_STATUS_PROCESSED",
+      "watchUrl": "https://www.youtube.com/watch?v=MNDICwtk-60",
+      "shareUrl": "https://youtu.be/MNDICwtk-60",
+      "public_viewCount": "374",
+      "public_commentCount": "2",
+      "public_likeCount": "8",
+      "public_externalViewCount": "374",
+      "private_clipCount": "0",
+      "private_dislikeCount": "1",
+      "thumbnail_urls": [
+        "https://i9.ytimg.com/vi/MNDICwtk-60/default.jpg?v=6881bb50&sqp=CKyHh8QG&rs=AOn4CLA8gMO0Y_mlXYlkOlku9_MCQ7GiZA",
+        "https://i9.ytimg.com/vi/MNDICwtk-60/mqdefault.jpg?v=6881bb50&sqp=CKyHh8QG&rs=AOn4CLA3hj_ZuZrA9LH9-J_4U3Ocln7jWg",
+        "https://i9.ytimg.com/vi/MNDICwtk-60/hqdefault.jpg?v=6881bb50&sqp=CKyHh8QG&rs=AOn4CLCfDs8f1quZPa32q22oW8aE92zCvw",
+        "https://i9.ytimg.com/vi/MNDICwtk-60/sddefault.jpg?v=6881bb50&sqp=CKyHh8QG&rs=AOn4CLAINnQsPmT6DNRGCSfFtKSUJwuenQ",
+        "https://i9.ytimg.com/vi/MNDICwtk-60/hq720.jpg?v=6881bb50&sqp=CKyHh8QG-oaymwEfCIAKENAFSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLALzfISFCaxf1A3t8uKovwGMEm2KA",
+        "https://i9.ytimg.com/vi/MNDICwtk-60/maxresdefault.jpg?v=6881bb50&sqp=CKyHh8QG&rs=AOn4CLCrBq725H2ZUB2IdLj_DUaWivxR_g"
+      ]
+    },
+    {
+      "collected_at": "2025-07-24T14:27:05.272427",
+      "raw_data": {
+        "videoId": "LPRi6MMlYao",
+        "title": "\"흙수저요? 저는 그냥 수저가 없었어요\" 자동수익 월 1500만원 받게 된 무수저 (키다리상남자 홍태호)",
+        "description": "📌  (무료강의 이벤트!) 공실 걱정 없는 상가 투자 성공 노하우!\nhttps://cyclehackers.com/product/558745/\n\n📌 비즈니스&출연문의 - sehen123000@naver.com\n#키다리상남자 #홍태호",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UC2vzie-A3l9tCf3vAx8gO1w",
+        "timePublishedSeconds": "1752397225",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi/LPRi6MMlYao/default.jpg?v=6874df10&sqp=CKyHh8QG&rs=AOn4CLD-MsbnHjsY2ainIrb-CvFcn_DFEQ",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/LPRi6MMlYao/mqdefault.jpg?v=6874df10&sqp=CKyHh8QG&rs=AOn4CLDI1r_wg5DvgiXnKRgr-0KohuRAOQ",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/LPRi6MMlYao/hqdefault.jpg?v=6874df10&sqp=CKyHh8QG&rs=AOn4CLAyg69oB8Ne3QkpCN_otagC5VkuJw",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/LPRi6MMlYao/sddefault.jpg?v=6874df10&sqp=CKyHh8QG&rs=AOn4CLAT0JTIrSpv38ADT6-joFoj2Nh-tw",
+              "width": 640,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/LPRi6MMlYao/hq720.jpg?v=6874df10&sqp=CKyHh8QG-oaymwEfCIAKENAFSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLBQGYstk_qMTBLF0hyBCyeD9qtW5g",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/LPRi6MMlYao/maxresdefault.jpg?v=6874df10&sqp=CKyHh8QG&rs=AOn4CLCI951ZBIAPg9k9IuthckWj4lYR_g",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_MANAGER"
+          ]
+        },
+        "lengthSeconds": "895",
+        "timeCreatedSeconds": "1752392338",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "thumbnailEditorState": {
+          "stills": [
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi/LPRi6MMlYao/mq1.jpg?sqp=CKyHh8QG&rs=AOn4CLAm3w6rLC7O3orwG099mdumexpocA",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi/LPRi6MMlYao/mq2.jpg?sqp=CKyHh8QG&rs=AOn4CLDOs9WaZFs64E6tZwEGTlNsN21PKg",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi/LPRi6MMlYao/mq3.jpg?sqp=CKyHh8QG&rs=AOn4CLC7FgtuqZt8_qXj6Ag4recEDALYCQ",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            }
+          ],
+          "stillId": 0,
+          "downloadUrl": "https://i9.ytimg.com/vi/LPRi6MMlYao/maxresdefault.jpg?v=6874df10&sqp=CKyHh8QG&rs=AOn4CLCI951ZBIAPg9k9IuthckWj4lYR_g",
+          "defaultStill": false
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customThumbnails": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "playVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "shareVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "editVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "deleteVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "ageGatedUi": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "tvType": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "regionalAvailability": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "genreInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "episodeInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "releaseTime": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "primetimeAnalytics": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "broadcastStreamSettings": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "sphericalSetting": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "titleAndDescription": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "captionSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "recordingDate": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "remixSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "sponsorsOnlyVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "videoProductTagging": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "creatorMusicLicensing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "shortsAdsMonetization": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "automatedDubbing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "metadataExperiment": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "multiTrackAudio": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "autoDubDefaultOn": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "collaboration": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=LPRi6MMlYao&t=QUFFLUhqbVRVTTJXeER5TEd0bENfNmhQa1NMVnRsTkExUXxBQ3Jtc0tsbUhQWkJSdmJTMktjTXBPeThMQ09lUWxuMmFLeDAyaktoMkRKQkd4T0c1ek1jTnFZR24wS0RmT1JjLXhKWV9RMURDalk3dVA3ckhvWUhYTm9MOHBlTklkUkZ3NTdBcjFyVF9Oc2RCR2NGRk9SMnlzbw%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=LPRi6MMlYao",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "videoStreamUrl": "https://rr5---sn-oguelnzy.c.youtube.com/videoplayback?expire=1753363621&ei=JcSBaITBOoCZvcAPmfPOuAI&ip=220.118.212.147&cp=X19UZGJ3cWctME1EUUhSS0M6eDlRdjM3RXVGdU56Q2xaZ1E2b2RFV2JsUHBYN0EtTGlJSEtQU1RwejE3bA&id=2cf462e8c32561aa&itag=18&source=youtube&requiressl=yes&xpc=Egho2aDSNXoBAQ%3D%3D&met=1753334821%2C&mh=su&mm=32&mn=sn-oguelnzy&ms=su&mv=m&mvi=5&pl=17&rms=su%2Csu&sc=yes&susc=ytcp&mime=video%2Fmp4&vprv=1&rqh=1&ratebypass=yes&dur=894.804&lmt=1752392734658835&mt=1753334438&txp=6309224&sparams=expire%2Cei%2Cip%2Ccp%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Cmime%2Cvprv%2Crqh%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAI6HMMHzsHXDYE8z4wXAUY3uJFkHCysCkZ1EV2MiW0bgAiBCvhhLtt9Ho-IVta2SSeTQnD2FkezXQ3xk5f0Um6ULmg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Csc&lsig=APaTxxMwRgIhAMFFchTZak9DICzC9RucTSLWL17QOxbe1BYaR1LJEsRmAiEAjquIUrV9B0WdftKrQtGqaxwvMATylF0Dyn8pJrlof9Y%3D",
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "\"흙수저요? 저는 그냥 수저가 없었어요\" 자동수익 월 1500만원 받게 된 무수저 (키다리상남자 홍태호)"
+            }
+          ]
+        },
+        "descriptionFormattedString": {
+          "runs": [
+            {
+              "text": "📌  (무료강의 이벤트!) 공실 걱정 없는 상가 투자 성공 노하우!\nhttps://cyclehackers.com/product/558745/\n\n📌 비즈니스&출연문의 - sehen123000@naver.com\n"
+            },
+            {
+              "text": "#키다리상남자"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "#홍태호"
+            }
+          ]
+        },
+        "allRestrictions": {},
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_DONE",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true,
+          "videoUploadChecksMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          },
+          "videoUploadChecksNotMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          }
+        },
+        "privateShare": {},
+        "publicShorts": {
+          "isShortsRenderable": false
+        },
+        "remix": {
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "privateMetrics": {
+          "clipCount": "0",
+          "dislikeCount": "0"
+        },
+        "publicMetrics": {
+          "viewCount": "549",
+          "commentCount": "3",
+          "likeCount": "12",
+          "externalViewCount": "549"
+        },
+        "shorts": {
+          "isShortsRenderable": false
+        },
+        "shareUrl": "https://youtu.be/LPRi6MMlYao",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "descriptionDetails": {
+          "segments": {
+            "textSegments": [
+              {
+                "text": "📌  (무료강의 이벤트!) 공실 걱정 없는 상가 투자 성공 노하우!\nhttps://cyclehackers.com/product/558745/\n\n📌 비즈니스&출연문의 - sehen123000@naver.com\n"
+              },
+              {
+                "text": "#키다리상남자",
+                "hashtag": {
+                  "hashtagId": "키다리상남자"
+                }
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "#홍태호",
+                "hashtag": {
+                  "hashtagId": "홍태호"
+                }
+              }
+            ]
+          }
+        },
+        "tvfilmMetadata": {},
+        "videoCreatorExperiment": {
+          "armCount": "CREATOR_EXPERIMENT_ARM_COUNT_3",
+          "experimentArmData": [
+            {
+              "thumbnail": {
+                "thumbnails": [
+                  {
+                    "url": "https://i9.ytimg.com/vi/LPRi6MMlYao/mqdefault_custom_1.jpg?v=6873631a&sqp=CKyHh8QG&rs=AOn4CLC0B7ga8LwqNAMMiaWSTuODSKArxw",
+                    "width": 320,
+                    "height": 180
+                  },
+                  {
+                    "url": "https://i9.ytimg.com/vi/LPRi6MMlYao/hqdefault_custom_1.jpg?v=6873631a&sqp=CKyHh8QG&rs=AOn4CLDsbpF6pwE-ucWp9fgC1e1NQe4ZoQ",
+                    "width": 480,
+                    "height": 360
+                  }
+                ]
+              }
+            },
+            {
+              "thumbnail": {
+                "thumbnails": [
+                  {
+                    "url": "https://i9.ytimg.com/vi/LPRi6MMlYao/mqdefault_custom_2.jpg?v=6873631a&sqp=CKyHh8QG&rs=AOn4CLA4hAlHt6hXqdP3jloD0dSj46Seeg",
+                    "width": 320,
+                    "height": 180
+                  },
+                  {
+                    "url": "https://i9.ytimg.com/vi/LPRi6MMlYao/hqdefault_custom_2.jpg?v=6873631a&sqp=CKyHh8QG&rs=AOn4CLAZRBKAAbhV4zWkO4y6GfpzcYjsog",
+                    "width": 480,
+                    "height": 360
+                  }
+                ]
+              }
+            },
+            {
+              "thumbnail": {
+                "thumbnails": [
+                  {
+                    "url": "https://i9.ytimg.com/vi/LPRi6MMlYao/mqdefault_custom_3.jpg?v=6873631a&sqp=CKyHh8QG&rs=AOn4CLBZ_QJR50EYoiy26CQxQJitC4ADkg",
+                    "width": 320,
+                    "height": 180
+                  },
+                  {
+                    "url": "https://i9.ytimg.com/vi/LPRi6MMlYao/hqdefault_custom_3.jpg?v=6873631a&sqp=CKyHh8QG&rs=AOn4CLDSvYi7Krhl0btouSrdDoWNsLU_XQ",
+                    "width": 480,
+                    "height": 360
+                  }
+                ]
+              }
+            }
+          ],
+          "state": "CREATOR_EXPERIMENT_STATE_FINISHED",
+          "finishedReason": "CREATOR_EXPERIMENT_FINISHED_REASON_STOPPED_BY_USER",
+          "selectedArm": "CREATOR_EXPERIMENT_ARM_2",
+          "experimentStartTime": {
+            "seconds": "1752397228",
+            "nanos": 38774932
+          },
+          "experimentFinishTime": {
+            "seconds": "1752484563",
+            "nanos": 737339757
+          },
+          "result": {
+            "resultState": "CREATOR_EXPERIMENT_RESULT_STATE_NOT_CONCLUSIVE_YET",
+            "armResults": [
+              {
+                "arm": "CREATOR_EXPERIMENT_ARM_1",
+                "watchtimeFraction": 0.40300464499511274
+              },
+              {
+                "arm": "CREATOR_EXPERIMENT_ARM_2",
+                "watchtimeFraction": 0.38886846156075233
+              },
+              {
+                "arm": "CREATOR_EXPERIMENT_ARM_3",
+                "watchtimeFraction": 0.20812689344413485
+              }
+            ],
+            "winnerArm": "CREATOR_EXPERIMENT_ARM_UNSPECIFIED"
+          },
+          "resultsDisplayed": true,
+          "experimentConfiguration": {
+            "hasThumbnails": true,
+            "hasTitles": false
+          }
+        },
+        "loggingDirectives": {
+          "trackingParams": "CA8QiI4CGA4iEwj-pN-Z4dSOAxUBP3sHHTuGBlM="
+        }
+      },
+      "videoId": "LPRi6MMlYao",
+      "title": "\"흙수저요? 저는 그냥 수저가 없었어요\" 자동수익 월 1500만원 받게 된 무수저 (키다리상남자 홍태호)",
+      "description": "📌  (무료강의 이벤트!) 공실 걱정 없는 상가 투자 성공 노하우!\nhttps://cyclehackers.com/product/558745/\n\n📌 비즈니스&출연문의 - sehen123000@naver.com\n#키다리상남자 #홍태호",
+      "privacy": "VIDEO_PRIVACY_PUBLIC",
+      "lengthSeconds": "895",
+      "timeCreatedSeconds": "1752392338",
+      "timePublishedSeconds": "1752397225",
+      "status": "VIDEO_STATUS_PROCESSED",
+      "watchUrl": "https://www.youtube.com/watch?v=LPRi6MMlYao",
+      "shareUrl": "https://youtu.be/LPRi6MMlYao",
+      "public_viewCount": "549",
+      "public_commentCount": "3",
+      "public_likeCount": "12",
+      "public_externalViewCount": "549",
+      "private_clipCount": "0",
+      "private_dislikeCount": "0",
+      "thumbnail_urls": [
+        "https://i9.ytimg.com/vi/LPRi6MMlYao/default.jpg?v=6874df10&sqp=CKyHh8QG&rs=AOn4CLD-MsbnHjsY2ainIrb-CvFcn_DFEQ",
+        "https://i9.ytimg.com/vi/LPRi6MMlYao/mqdefault.jpg?v=6874df10&sqp=CKyHh8QG&rs=AOn4CLDI1r_wg5DvgiXnKRgr-0KohuRAOQ",
+        "https://i9.ytimg.com/vi/LPRi6MMlYao/hqdefault.jpg?v=6874df10&sqp=CKyHh8QG&rs=AOn4CLAyg69oB8Ne3QkpCN_otagC5VkuJw",
+        "https://i9.ytimg.com/vi/LPRi6MMlYao/sddefault.jpg?v=6874df10&sqp=CKyHh8QG&rs=AOn4CLAT0JTIrSpv38ADT6-joFoj2Nh-tw",
+        "https://i9.ytimg.com/vi/LPRi6MMlYao/hq720.jpg?v=6874df10&sqp=CKyHh8QG-oaymwEfCIAKENAFSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLBQGYstk_qMTBLF0hyBCyeD9qtW5g",
+        "https://i9.ytimg.com/vi/LPRi6MMlYao/maxresdefault.jpg?v=6874df10&sqp=CKyHh8QG&rs=AOn4CLCI951ZBIAPg9k9IuthckWj4lYR_g"
+      ]
+    },
+    {
+      "collected_at": "2025-07-24T14:27:05.272884",
+      "raw_data": {
+        "videoId": "EYtFebNa5CQ",
+        "title": "제가 몰래 쓰던 기능, 싹 다 공개합니다 (1억 7천 수익 인증)",
+        "description": "(유튜브 다마고치!) AI+프로그램으로 월 3천 버는 유튜브 수익화! (아래 링크 클릭)\nhttps://cyclehackers.com/product/306135/\n\n📌 비즈니스&출연문의 - sehen123000@naver.com",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UC2vzie-A3l9tCf3vAx8gO1w",
+        "timePublishedSeconds": "1752304381",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi/EYtFebNa5CQ/default.jpg?v=68735868&sqp=CKyHh8QG&rs=AOn4CLCP72_oaz1KcLMWjZ-kOk6ahMvW7g",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/EYtFebNa5CQ/mqdefault.jpg?v=68735868&sqp=CKyHh8QG&rs=AOn4CLDzhD2Bug8dHRROSdidWTY8mjoJMw",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/EYtFebNa5CQ/hqdefault.jpg?v=68735868&sqp=CKyHh8QG&rs=AOn4CLA2MTOgSPI19g8ABjfeMeA8Glp32Q",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/EYtFebNa5CQ/sddefault.jpg?v=68735868&sqp=CKyHh8QG&rs=AOn4CLAH2IkkO1jIiKG-ofM6WHyrTsUE5Q",
+              "width": 640,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/EYtFebNa5CQ/hq720.jpg?v=68735868&sqp=CKyHh8QG-oaymwEfCIAKENAFSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLCTGciUeEj2GGWeOT26lNolA2smCw",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/EYtFebNa5CQ/maxresdefault.jpg?v=68735868&sqp=CKyHh8QG&rs=AOn4CLCIHScL22-NgUcsFrrnmOsnFfED1g",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_MANAGER"
+          ]
+        },
+        "lengthSeconds": "928",
+        "timeCreatedSeconds": "1752294164",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "thumbnailEditorState": {
+          "stills": [
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi/EYtFebNa5CQ/mq1.jpg?sqp=CKyHh8QG&rs=AOn4CLDkHTBJdthAYVsJqodhRN7EtNM-4g",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi/EYtFebNa5CQ/mq2.jpg?sqp=CKyHh8QG&rs=AOn4CLCCThvSI1ntGthu6Pqre7KgUZX9KQ",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi/EYtFebNa5CQ/mq3.jpg?sqp=CKyHh8QG&rs=AOn4CLAmfd6ejhtGVdWs_Is7ToHS4cXSyQ",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            }
+          ],
+          "stillId": 0,
+          "downloadUrl": "https://i9.ytimg.com/vi/EYtFebNa5CQ/maxresdefault.jpg?v=68735868&sqp=CKyHh8QG&rs=AOn4CLCIHScL22-NgUcsFrrnmOsnFfED1g",
+          "defaultStill": false
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customThumbnails": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "playVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "shareVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "editVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "deleteVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "ageGatedUi": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "tvType": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "regionalAvailability": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "genreInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "episodeInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "releaseTime": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "primetimeAnalytics": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "broadcastStreamSettings": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "sphericalSetting": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "titleAndDescription": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "captionSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "recordingDate": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "remixSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "sponsorsOnlyVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "videoProductTagging": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "creatorMusicLicensing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "shortsAdsMonetization": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "automatedDubbing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "metadataExperiment": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "multiTrackAudio": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "autoDubDefaultOn": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "collaboration": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=EYtFebNa5CQ&t=QUFFLUhqbWFWWXotQXJKNGM4OXd3MzQtUGVTRTBFcDZ2Z3xBQ3Jtc0trUjBLNjkta19NVXlhTGV2STBLVTVleTl3NW04Zy1xdnJVLXJHQUlxYlZMNEZKeFhQYy1QMkE1YjRHemZnT0ota1JSR3dGU0hUd1NUYnB1Zkx0QXRlQ185NlZkckIydzJSbFdSbzgtNEVXcUFDbDhnVQ%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=EYtFebNa5CQ",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "videoStreamUrl": "https://rr3---sn-ogul7n7s.c.youtube.com/videoplayback?expire=1753363621&ei=JcSBaIzJOsfV1d8PxbTVuA8&ip=220.118.212.147&cp=X19UZGJ3cWctME1EUUhSS0M6eDlRdjM3RXVGdU56Q2xaZ1E2b2RFV2JsUHBYN0EtTGlJSEtQU1RwejE3bA&id=118b4579b35ae424&itag=18&source=youtube&requiressl=yes&xpc=Egho2aDSNXoBAQ%3D%3D&met=1753334821%2C&mh=ts&mm=32&mn=sn-ogul7n7s&ms=su&mv=m&mvi=3&pl=17&rms=su%2Csu&sc=yes&susc=ytcp&mime=video%2Fmp4&vprv=1&rqh=1&ratebypass=yes&dur=927.451&lmt=1752975755181409&mt=1753334438&txp=6308224&sparams=expire%2Cei%2Cip%2Ccp%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Cmime%2Cvprv%2Crqh%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhAJHojk-QbqRQoXDX4vHGNxyhz1pVGTCsXCdoOkD4xUNvAiEAvLJ9S9PbFspEMeXs5MYAZS_plmjDaxlViMmzEGQYdqI%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Csc&lsig=APaTxxMwRQIgSzXWXZpeDVtM8KLAVQbnLIMyp-VgcD3AMLW56SReA6ECIQDjab4GVc8QxNHtXd2ikhxhC2qeb_ZDmAlhmwbBx6_W-A%3D%3D",
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "제가 몰래 쓰던 기능, 싹 다 공개합니다 (1억 7천 수익 인증)"
+            }
+          ]
+        },
+        "descriptionFormattedString": {
+          "runs": [
+            {
+              "text": "(유튜브 다마고치!) AI+프로그램으로 월 3천 버는 유튜브 수익화! (아래 링크 클릭)\nhttps://cyclehackers.com/product/306135/\n\n📌 비즈니스&출연문의 - sehen123000@naver.com"
+            }
+          ]
+        },
+        "allRestrictions": {},
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_DONE",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true,
+          "videoUploadChecksMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          },
+          "videoUploadChecksNotMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          }
+        },
+        "privateShare": {},
+        "publicShorts": {
+          "isShortsRenderable": false
+        },
+        "remix": {
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "privateMetrics": {
+          "clipCount": "0",
+          "dislikeCount": "3"
+        },
+        "publicMetrics": {
+          "viewCount": "1405",
+          "commentCount": "9",
+          "likeCount": "25",
+          "externalViewCount": "1405"
+        },
+        "shorts": {
+          "isShortsRenderable": false
+        },
+        "shareUrl": "https://youtu.be/EYtFebNa5CQ",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "descriptionDetails": {
+          "segments": {
+            "textSegments": [
+              {
+                "text": "(유튜브 다마고치!) AI+프로그램으로 월 3천 버는 유튜브 수익화! (아래 링크 클릭)\nhttps://cyclehackers.com/product/306135/\n\n📌 비즈니스&출연문의 - sehen123000@naver.com"
+              }
+            ]
+          }
+        },
+        "tvfilmMetadata": {},
+        "videoCreatorExperiment": {
+          "armCount": "CREATOR_EXPERIMENT_ARM_COUNT_3",
+          "experimentArmData": [
+            {
+              "thumbnail": {
+                "thumbnails": [
+                  {
+                    "url": "https://i9.ytimg.com/vi/EYtFebNa5CQ/mqdefault_custom_1.jpg?v=6871e332&sqp=CKyHh8QG&rs=AOn4CLCdIM4mBZNK1YrJfnHMEcnilDLX7g",
+                    "width": 320,
+                    "height": 180
+                  },
+                  {
+                    "url": "https://i9.ytimg.com/vi/EYtFebNa5CQ/hqdefault_custom_1.jpg?v=6871e332&sqp=CKyHh8QG&rs=AOn4CLBw6TOMVEtZu-lzOP3_K-KPBFJpyA",
+                    "width": 480,
+                    "height": 360
+                  }
+                ]
+              }
+            },
+            {
+              "thumbnail": {
+                "thumbnails": [
+                  {
+                    "url": "https://i9.ytimg.com/vi/EYtFebNa5CQ/mqdefault_custom_2.jpg?v=6871e332&sqp=CKyHh8QG&rs=AOn4CLBQcRGjeKVsTB5xu2_MU2lAz28SvQ",
+                    "width": 320,
+                    "height": 180
+                  },
+                  {
+                    "url": "https://i9.ytimg.com/vi/EYtFebNa5CQ/hqdefault_custom_2.jpg?v=6871e332&sqp=CKyHh8QG&rs=AOn4CLBnNxHj4diI_B49tJsJBH47xWDJDg",
+                    "width": 480,
+                    "height": 360
+                  }
+                ]
+              }
+            },
+            {
+              "thumbnail": {
+                "thumbnails": [
+                  {
+                    "url": "https://i9.ytimg.com/vi/EYtFebNa5CQ/mqdefault_custom_3.jpg?v=6871e332&sqp=CKyHh8QG&rs=AOn4CLAgaejeS2pjzRfNCScB0NG0NBKSoQ",
+                    "width": 320,
+                    "height": 180
+                  },
+                  {
+                    "url": "https://i9.ytimg.com/vi/EYtFebNa5CQ/hqdefault_custom_3.jpg?v=6871e332&sqp=CKyHh8QG&rs=AOn4CLCTzvmNQOKswj8rR1byWUgPl2GjTw",
+                    "width": 480,
+                    "height": 360
+                  }
+                ]
+              }
+            }
+          ],
+          "state": "CREATOR_EXPERIMENT_STATE_FINISHED",
+          "finishedReason": "CREATOR_EXPERIMENT_FINISHED_REASON_STOPPED_BY_USER",
+          "selectedArm": "CREATOR_EXPERIMENT_ARM_1",
+          "experimentStartTime": {
+            "seconds": "1752304384",
+            "nanos": 116967116
+          },
+          "experimentFinishTime": {
+            "seconds": "1752389738",
+            "nanos": 926039271
+          },
+          "result": {
+            "resultState": "CREATOR_EXPERIMENT_RESULT_STATE_PREFERRED",
+            "armResults": [
+              {
+                "arm": "CREATOR_EXPERIMENT_ARM_1",
+                "watchtimeFraction": 0.4164499365889576
+              },
+              {
+                "arm": "CREATOR_EXPERIMENT_ARM_2",
+                "watchtimeFraction": 0.2960426961811316
+              },
+              {
+                "arm": "CREATOR_EXPERIMENT_ARM_3",
+                "watchtimeFraction": 0.28750736722991066
+              }
+            ],
+            "winnerArm": "CREATOR_EXPERIMENT_ARM_1"
+          },
+          "resultsDisplayed": false,
+          "experimentConfiguration": {
+            "hasThumbnails": true,
+            "hasTitles": false
+          }
+        },
+        "loggingDirectives": {
+          "trackingParams": "CA4QiI4CGA8iEwj-pN-Z4dSOAxUBP3sHHTuGBlM="
+        }
+      },
+      "videoId": "EYtFebNa5CQ",
+      "title": "제가 몰래 쓰던 기능, 싹 다 공개합니다 (1억 7천 수익 인증)",
+      "description": "(유튜브 다마고치!) AI+프로그램으로 월 3천 버는 유튜브 수익화! (아래 링크 클릭)\nhttps://cyclehackers.com/product/306135/\n\n📌 비즈니스&출연문의 - sehen123000@naver.com",
+      "privacy": "VIDEO_PRIVACY_PUBLIC",
+      "lengthSeconds": "928",
+      "timeCreatedSeconds": "1752294164",
+      "timePublishedSeconds": "1752304381",
+      "status": "VIDEO_STATUS_PROCESSED",
+      "watchUrl": "https://www.youtube.com/watch?v=EYtFebNa5CQ",
+      "shareUrl": "https://youtu.be/EYtFebNa5CQ",
+      "public_viewCount": "1405",
+      "public_commentCount": "9",
+      "public_likeCount": "25",
+      "public_externalViewCount": "1405",
+      "private_clipCount": "0",
+      "private_dislikeCount": "3",
+      "thumbnail_urls": [
+        "https://i9.ytimg.com/vi/EYtFebNa5CQ/default.jpg?v=68735868&sqp=CKyHh8QG&rs=AOn4CLCP72_oaz1KcLMWjZ-kOk6ahMvW7g",
+        "https://i9.ytimg.com/vi/EYtFebNa5CQ/mqdefault.jpg?v=68735868&sqp=CKyHh8QG&rs=AOn4CLDzhD2Bug8dHRROSdidWTY8mjoJMw",
+        "https://i9.ytimg.com/vi/EYtFebNa5CQ/hqdefault.jpg?v=68735868&sqp=CKyHh8QG&rs=AOn4CLA2MTOgSPI19g8ABjfeMeA8Glp32Q",
+        "https://i9.ytimg.com/vi/EYtFebNa5CQ/sddefault.jpg?v=68735868&sqp=CKyHh8QG&rs=AOn4CLAH2IkkO1jIiKG-ofM6WHyrTsUE5Q",
+        "https://i9.ytimg.com/vi/EYtFebNa5CQ/hq720.jpg?v=68735868&sqp=CKyHh8QG-oaymwEfCIAKENAFSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLCTGciUeEj2GGWeOT26lNolA2smCw",
+        "https://i9.ytimg.com/vi/EYtFebNa5CQ/maxresdefault.jpg?v=68735868&sqp=CKyHh8QG&rs=AOn4CLCIHScL22-NgUcsFrrnmOsnFfED1g"
+      ]
+    }
+  ],
+  "skipped_videos": [
+    {
+      "title": "왕초보 0원으로 시작 가능한 외식업 마케팅! 나레이션 ",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "HOpQJb2h5SI"
+    },
+    {
+      "title": "왕초보 0원으로 시작 가능한 외식업 마케팅! 나레이션 ",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "ZIiyMw5Lhmk"
+    },
+    {
+      "title": "왕초보 0원으로 시작 가능한 외식업 마케팅! 나레이션 ",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "XbtULXoik4w"
+    },
+    {
+      "title": "비전공자가 PPT 만들어 월급 만든 노하우! 가로6",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "8CvEInHc_4Y"
+    },
+    {
+      "title": "비전공자가 PPT 만들어 월급 만든 노하우! 가로5",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "YabksFFi3pI"
+    },
+    {
+      "title": "비전공자가 PPT 만들어 월급 만든 노하우! 가로4",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "8tPVnwMwNrY"
+    },
+    {
+      "title": "비전공자가 PPT 만들어 월급 만든 노하우! 가로3",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "0rAEefvna54"
+    },
+    {
+      "title": "비전공자가 PPT 만들어 월급 만든 노하우! 가로2",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "Oj4Td-bBDTw"
+    },
+    {
+      "title": "비전공자가 PPT 만들어 월급 만든 노하우! 가로 1",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "1dl9sOLyeOw"
+    },
+    {
+      "title": "하루 2시간 유튜브에 AI로 만든 영상 올려 월급 만들",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "yNDWC-nml30"
+    },
+    {
+      "title": "하루 2시간 유튜브에 AI로 만든 영상 올려 월급 만들",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "cm4AENd1YhU"
+    },
+    {
+      "title": "하루 2시간 유튜브에 AI로 만든 영상 올려 월급 만들",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "V8lUHRLN7CA"
+    },
+    {
+      "title": "하루 2시간 유튜브에 AI로 만든 영상 올려 월급 만들",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "nRyT48e3N0w"
+    },
+    {
+      "title": "영양제 하나로 월 매출 1억 도전하기 가로5",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "SEq06KVCWj4"
+    },
+    {
+      "title": "영양제 하나로 월 매출 1억 도전하기 가로4",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "0XkwBBdG8Po"
+    },
+    {
+      "title": "영양제 하나로 월 매출 1억 도전하기 가로3",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "LA0mI3M5Gsw"
+    },
+    {
+      "title": "영양제 하나로 월 매출 1억 도전하기 가로2",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "BkGFE3cDz4M"
+    },
+    {
+      "title": "영양제 하나로 월 매출 1억 도전하기 가로1",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "2GiX4KpGv_c"
+    },
+    {
+      "title": "홈페이지 제작으로 2000만원 벌기! 가로5",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "SCrEf1NEs6Y"
+    },
+    {
+      "title": "홈페이지 제작으로 2000만원 벌기! 가로4",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "463EDCRoVsE"
+    },
+    {
+      "title": "홈페이지 제작으로 2000만원 벌기! 가로3",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "p9PwnCmw9BE"
+    },
+    {
+      "title": "홈페이지 제작으로 2000만원 벌기! 가로2",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "4NfLY1tgq6k"
+    },
+    {
+      "title": "홈페이지 제작으로 2000만원 벌기! 가로1",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "wSQAFyASwtY"
+    },
+    {
+      "title": "부동산 도전하기 가로 6",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "qteZMZbAkyg"
+    },
+    {
+      "title": "부동산 도전하기 가로 5",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "GhMDRs4AdBA"
+    },
+    {
+      "title": "부동산 도전하기 가로 4",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "sTGJ467Wftc"
+    },
+    {
+      "title": "부동산 도전하기 가로 3",
+      "privacy": "VIDEO_PRIVACY_UNLISTED",
+      "videoId": "mFSBz3cJCKs"
+    }
+  ]
+}

@@ -1,0 +1,2738 @@
+{
+  "channel_id": "UCj5e25CjZcGqW7FTfZvQN1w",
+  "total_videos": 8,
+  "total_skipped": 18,
+  "collected_at": "2025-07-23T15:15:58.978434",
+  "original_response_keys": [
+    "responseContext",
+    "videos",
+    "videosTotalSize"
+  ],
+  "videos": [
+    {
+      "collected_at": "2025-07-23T15:15:58.975971",
+      "raw_data": {
+        "videoId": "RLe5T6Fn3YQ",
+        "title": "2021년 9월 18일",
+        "description": "",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UCj5e25CjZcGqW7FTfZvQN1w",
+        "timePublishedSeconds": "1631962943",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi/RLe5T6Fn3YQ/default.jpg?sqp=COT7gcQG-oaymwEkCHgQWvKriqkDGvABAfgB1AaAAuADigIMCAAQARhlIFYoVDAP&rs=AOn4CLBhkW76IyKacFp8GIWec4pkbbSYTA",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/RLe5T6Fn3YQ/mqdefault.jpg?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVihUMA8=&rs=AOn4CLApwApHZ_hyitlVIEh2mfHlymC38g",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/RLe5T6Fn3YQ/hqdefault.jpg?sqp=COT7gcQG-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVihUMA8=&rs=AOn4CLAIR9MuUIczjjdIrbS6YKJA9vTM6Q",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/RLe5T6Fn3YQ/sddefault.jpg?sqp=COT7gcQG-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVihUMA8=&rs=AOn4CLCYWGu4xG4uKXinBq3vobW14qi49w",
+              "width": 640,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/RLe5T6Fn3YQ/hq720.jpg?sqp=COT7gcQG-oaymwEfCNYGEOADSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLAS2LrM-l7oUhK3E39fiWd5mTtBfw",
+              "width": 854,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/RLe5T6Fn3YQ/maxresdefault.jpg?sqp=COT7gcQG-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVihUMA8=&rs=AOn4CLCmujYj-27ijY9Lz9CSyyYBFVB0Rg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_MANAGER"
+          ]
+        },
+        "lengthSeconds": "721",
+        "timeCreatedSeconds": "1631962318",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "thumbnailEditorState": {
+          "stills": [
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/RLe5T6Fn3YQ/mq1.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgUihPMA8=&rs=AOn4CLDigYlf26JYhPD8vKP8exEHgVxBog",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/RLe5T6Fn3YQ/mq2.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVihUMA8=&rs=AOn4CLARUDw0RGdCxDt1xi-FpJjR3G8IAQ",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/RLe5T6Fn3YQ/mq3.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgYCg6MA8=&rs=AOn4CLCNGkwyBhSx10f6IFjOqIhlKCCV_A",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            }
+          ],
+          "stillId": 2,
+          "defaultStill": true
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customThumbnails": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "playVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "shareVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "editVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "deleteVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "ageGatedUi": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "tvType": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "regionalAvailability": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "genreInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "episodeInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "releaseTime": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "primetimeAnalytics": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "broadcastStreamSettings": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "sphericalSetting": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "titleAndDescription": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "captionSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "recordingDate": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "remixSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "sponsorsOnlyVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "videoProductTagging": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": {
+              "hasCopyrightIssues": true
+            }
+          },
+          "creatorMusicLicensing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "shortsAdsMonetization": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "automatedDubbing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "metadataExperiment": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "multiTrackAudio": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "autoDubDefaultOn": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "collaboration": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=RLe5T6Fn3YQ&t=QUFFLUhqbnhjVDFORnhRWkxqU3lQcFhFQ1BjWjRtM3NaZ3xBQ3Jtc0traG1KbjRsa05hZjhEQjl1X0VoVVdwaVg1amFIRUNxTjQ5UHRIS0RYRW51OW1IN205cFhqcktXSHdQRWgxejJlTXpSNXljVF9oUTgzR0J4S1MySzFEcWNhTFRiczRfR2hOMU5Gem5HVlNUX1lKWXVXYw%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=RLe5T6Fn3YQ",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_BLOCKED_FOR_COPYRIGHT_PARTIALLY"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "videoStreamUrl": "https://rr4---sn-ogueln67.c.youtube.com/videoplayback?expire=1753280156&ei=HH6AaMbmLbbs7OsPq86sMA&ip=220.118.212.147&cp=X19UZGF5bmItNU1EUUhRTVo6WTdCSmpSMkFubWprZ295Uk4xUlI2dlJJY2o5ZVFLMkZFUVN4N0NvSXpwRg&id=44b7b94fa167dd84&itag=18&source=youtube&requiressl=yes&xpc=Egho2aDSNXoBAQ%3D%3D&met=1753251356%2C&mh=7K&mm=32&mn=sn-ogueln67&ms=su&mv=m&mvi=4&pl=17&rms=su%2Csu&sc=yes&susc=ytcp&mime=video%2Fmp4&vprv=1&rqh=1&ratebypass=yes&dur=720.074&lmt=1745980694826083&mt=1753250937&txp=6218224&sparams=expire%2Cei%2Cip%2Ccp%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Cmime%2Cvprv%2Crqh%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRAIgCO6vc6adI3o4SflPcnU2h88N7wJWnF7zml0dy28GGNwCICRQV0ZEH_nc7ChEnJalmLruGs80Nc1teV8tL-mUJABE&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Csc&lsig=APaTxxMwRgIhAOTKBgw6RUa0qdzcBESKA7BRO49Sl1buuOlW1hvJsDURAiEAupvSzzCMlIENHFON4BC6-rfP2ritecTLEEA_d-4p278%3D",
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "2021년 9월 18일"
+            }
+          ]
+        },
+        "allRestrictions": {
+          "restrictions": [
+            {
+              "reason": "VIDEO_RESTRICTION_REASON_COPYRIGHT",
+              "visibilityEffect": "VIDEO_RESTRICTION_EFFECT_PARTIALLY_RESTRICTED",
+              "copyright": {
+                "type": "COPYRIGHT_RESTRICTION_TYPE_COPYRIGHT",
+                "detail": "COPYRIGHT_RESTRICTION_DETAIL_PARTIAL_BLOCK",
+                "properties": {
+                  "wasCopyrightProtectedContentFound": true,
+                  "isFyiRestriction": false,
+                  "coverRevshareStatus": "COVER_REVSHARE_STATUS_NOT_ELIGIBLE",
+                  "creatorRevshareStatus": "CREATOR_REVSHARE_STATUS_NOT_ELIGIBLE"
+                },
+                "actions": [
+                  "DEFAULT_RESOLUTION_ACTION_VIEW_DETAIL"
+                ]
+              }
+            }
+          ]
+        },
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_DONE",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true
+        },
+        "privateShare": {},
+        "publicShorts": {
+          "isShortsRenderable": false
+        },
+        "remix": {
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "privateMetrics": {
+          "clipCount": "0",
+          "dislikeCount": "0"
+        },
+        "publicMetrics": {
+          "viewCount": "24",
+          "commentCount": "0",
+          "likeCount": "0",
+          "externalViewCount": "24"
+        },
+        "shorts": {
+          "isShortsRenderable": false
+        },
+        "shareUrl": "https://youtu.be/RLe5T6Fn3YQ",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "tvfilmMetadata": {},
+        "alteredContentSettings": {
+          "creatorDisclosedHasAlteredContent": "VIDEO_HAS_ALTERED_CONTENT_UNSPECIFIED"
+        },
+        "videoCreatorExperiment": {},
+        "loggingDirectives": {
+          "trackingParams": "CBgQiI4CGAEiEwixpraiqtKOAxU9AXsHHRX7LLo="
+        }
+      },
+      "videoId": "RLe5T6Fn3YQ",
+      "title": "2021년 9월 18일",
+      "description": "",
+      "privacy": "VIDEO_PRIVACY_PUBLIC",
+      "lengthSeconds": "721",
+      "timeCreatedSeconds": "1631962318",
+      "timePublishedSeconds": "1631962943",
+      "status": "VIDEO_STATUS_PROCESSED",
+      "watchUrl": "https://www.youtube.com/watch?v=RLe5T6Fn3YQ",
+      "shareUrl": "https://youtu.be/RLe5T6Fn3YQ",
+      "public_viewCount": "24",
+      "public_commentCount": "0",
+      "public_likeCount": "0",
+      "public_externalViewCount": "24",
+      "private_clipCount": "0",
+      "private_dislikeCount": "0",
+      "thumbnail_urls": [
+        "https://i9.ytimg.com/vi/RLe5T6Fn3YQ/default.jpg?sqp=COT7gcQG-oaymwEkCHgQWvKriqkDGvABAfgB1AaAAuADigIMCAAQARhlIFYoVDAP&rs=AOn4CLBhkW76IyKacFp8GIWec4pkbbSYTA",
+        "https://i9.ytimg.com/vi/RLe5T6Fn3YQ/mqdefault.jpg?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVihUMA8=&rs=AOn4CLApwApHZ_hyitlVIEh2mfHlymC38g",
+        "https://i9.ytimg.com/vi/RLe5T6Fn3YQ/hqdefault.jpg?sqp=COT7gcQG-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVihUMA8=&rs=AOn4CLAIR9MuUIczjjdIrbS6YKJA9vTM6Q",
+        "https://i9.ytimg.com/vi/RLe5T6Fn3YQ/sddefault.jpg?sqp=COT7gcQG-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVihUMA8=&rs=AOn4CLCYWGu4xG4uKXinBq3vobW14qi49w",
+        "https://i9.ytimg.com/vi/RLe5T6Fn3YQ/hq720.jpg?sqp=COT7gcQG-oaymwEfCNYGEOADSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLAS2LrM-l7oUhK3E39fiWd5mTtBfw",
+        "https://i9.ytimg.com/vi/RLe5T6Fn3YQ/maxresdefault.jpg?sqp=COT7gcQG-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVihUMA8=&rs=AOn4CLCmujYj-27ijY9Lz9CSyyYBFVB0Rg"
+      ]
+    },
+    {
+      "collected_at": "2025-07-23T15:15:58.976116",
+      "raw_data": {
+        "videoId": "oRWchhS6OqM",
+        "title": "한강",
+        "description": "전역하면 한강가야지",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UCj5e25CjZcGqW7FTfZvQN1w",
+        "timePublishedSeconds": "1619782153",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi/oRWchhS6OqM/default.jpg?sqp=COT7gcQG-oaymwEkCHgQWvKriqkDGvABAfgB1AaAAuADigIMCAAQARhlIGIoSzAP&rs=AOn4CLAD-ggESkYC3hhxTYitut9Asog42Q",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/oRWchhS6OqM/mqdefault.jpg?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgYihLMA8=&rs=AOn4CLDA4BSnS_XDF0JTNMhVD_P-neMCFw",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/oRWchhS6OqM/hqdefault.jpg?sqp=COT7gcQG-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgYihLMA8=&rs=AOn4CLAWaAIsVCjbli7rixt94qaHfOIrsg",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/oRWchhS6OqM/sddefault.jpg?sqp=COT7gcQG-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgYihLMA8=&rs=AOn4CLB3yV3DL0g2iDeF7DEHmTTr8r3UEQ",
+              "width": 640,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/oRWchhS6OqM/hq720.jpg?sqp=COT7gcQG-oaymwEfCNYGEOADSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLBGGNqQgnxW69Azzm3dSM8Xpoj8fg",
+              "width": 854,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/oRWchhS6OqM/maxresdefault.jpg?sqp=COT7gcQG-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgYihLMA8=&rs=AOn4CLARskJ48xQxhF_lx1YxbAODPg_HlA",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_MANAGER"
+          ]
+        },
+        "lengthSeconds": "9",
+        "timeCreatedSeconds": "1619782140",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "thumbnailEditorState": {
+          "stills": [
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/oRWchhS6OqM/mq1.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGFMgVyhlMA8=&rs=AOn4CLC-VIgI0psmYt9BMgLpV932ibtWDA",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/oRWchhS6OqM/mq2.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgYihLMA8=&rs=AOn4CLAWkAruCpfivcEsBd57oT5etPRYHA",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/oRWchhS6OqM/mq3.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgaSgtMA8=&rs=AOn4CLBva8zIIFMQEJmpG73N0bQIvQuPyw",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            }
+          ],
+          "stillId": 2,
+          "defaultStill": true
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customThumbnails": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "playVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "shareVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "editVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "deleteVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "ageGatedUi": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "tvType": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "regionalAvailability": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "genreInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "episodeInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "releaseTime": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "primetimeAnalytics": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "broadcastStreamSettings": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "sphericalSetting": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "titleAndDescription": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "captionSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "recordingDate": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "remixSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "sponsorsOnlyVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "videoProductTagging": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "creatorMusicLicensing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "shortsAdsMonetization": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "automatedDubbing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "metadataExperiment": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "multiTrackAudio": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "autoDubDefaultOn": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "collaboration": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=oRWchhS6OqM&t=QUFFLUhqbUFYbFlSRTM2b0x2QjdJajRPSVVoR0pTZEhyUXxBQ3Jtc0trOVNfTE9YZVN6b054UjZPWEh5TEMwSnJMUEJQaEI0X1REWlExMGRqTWV1WC1kWlpVVTJubmpDZUxMemI4ZzBHVW1pZGhldXM0b0ZnRkhnc1p3cGtuTHBCYzB3STJKQmU1LTd5dVFCemNOb3RTMU9HVQ%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=oRWchhS6OqM",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "videoStreamUrl": "https://rr1---sn-oguesnde.c.youtube.com/videoplayback?expire=1753280156&ei=HH6AaPfiK-e02roPzdev4AU&ip=220.118.212.147&cp=X19UZGF5bmItNU1EUUhRTVo6WTdCSmpSMkFubWprZ295Uk4xUlI2dlJJY2o5ZVFLMkZFUVN4N0NvSXpwRg&id=a1159c8614ba3aa3&itag=18&source=youtube&requiressl=yes&xpc=Egho2aDSNXoBAQ%3D%3D&met=1753251356%2C&mh=cO&mm=32&mn=sn-oguesnde&ms=su&mv=m&mvi=1&pl=17&rms=su%2Csu&sc=yes&susc=ytcp&mime=video%2Fmp4&vprv=1&rqh=1&ratebypass=yes&dur=8.893&lmt=1638008208777111&mt=1753250937&txp=6218224&sparams=expire%2Cei%2Cip%2Ccp%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Cmime%2Cvprv%2Crqh%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAPaySEBmina4kw6TbgU6GY86rq3nyqWVRC8nLmNHsuAOAiAJXTDD8n9mjLGeIUmJHClgP8f91LCGvdUfFziaWHwu6A%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Csc&lsig=APaTxxMwRgIhAKihno3NG12jykmqDfkbSAQL4zqwwCamhs5Dkc8HL17eAiEAz5tC8lAF41TuTOubaDArh5cRYrykTawRP1NMOt9mjSw%3D",
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "한강"
+            }
+          ]
+        },
+        "descriptionFormattedString": {
+          "runs": [
+            {
+              "text": "전역하면 한강가야지"
+            }
+          ]
+        },
+        "allRestrictions": {},
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_DONE",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true,
+          "videoUploadChecksMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          },
+          "videoUploadChecksNotMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          }
+        },
+        "privateShare": {},
+        "publicShorts": {
+          "isShortsRenderable": false
+        },
+        "remix": {
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "privateMetrics": {
+          "clipCount": "0",
+          "dislikeCount": "0"
+        },
+        "publicMetrics": {
+          "viewCount": "5",
+          "commentCount": "0",
+          "likeCount": "0",
+          "externalViewCount": "5"
+        },
+        "shorts": {
+          "isShortsRenderable": false
+        },
+        "shareUrl": "https://youtu.be/oRWchhS6OqM",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "descriptionDetails": {
+          "segments": {
+            "textSegments": [
+              {
+                "text": "전역하면 한강가야지"
+              }
+            ]
+          }
+        },
+        "tvfilmMetadata": {},
+        "alteredContentSettings": {
+          "creatorDisclosedHasAlteredContent": "VIDEO_HAS_ALTERED_CONTENT_UNSPECIFIED"
+        },
+        "videoCreatorExperiment": {},
+        "loggingDirectives": {
+          "trackingParams": "CBYQiI4CGAMiEwixpraiqtKOAxU9AXsHHRX7LLo="
+        }
+      },
+      "videoId": "oRWchhS6OqM",
+      "title": "한강",
+      "description": "전역하면 한강가야지",
+      "privacy": "VIDEO_PRIVACY_PUBLIC",
+      "lengthSeconds": "9",
+      "timeCreatedSeconds": "1619782140",
+      "timePublishedSeconds": "1619782153",
+      "status": "VIDEO_STATUS_PROCESSED",
+      "watchUrl": "https://www.youtube.com/watch?v=oRWchhS6OqM",
+      "shareUrl": "https://youtu.be/oRWchhS6OqM",
+      "public_viewCount": "5",
+      "public_commentCount": "0",
+      "public_likeCount": "0",
+      "public_externalViewCount": "5",
+      "private_clipCount": "0",
+      "private_dislikeCount": "0",
+      "thumbnail_urls": [
+        "https://i9.ytimg.com/vi/oRWchhS6OqM/default.jpg?sqp=COT7gcQG-oaymwEkCHgQWvKriqkDGvABAfgB1AaAAuADigIMCAAQARhlIGIoSzAP&rs=AOn4CLAD-ggESkYC3hhxTYitut9Asog42Q",
+        "https://i9.ytimg.com/vi/oRWchhS6OqM/mqdefault.jpg?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgYihLMA8=&rs=AOn4CLDA4BSnS_XDF0JTNMhVD_P-neMCFw",
+        "https://i9.ytimg.com/vi/oRWchhS6OqM/hqdefault.jpg?sqp=COT7gcQG-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgYihLMA8=&rs=AOn4CLAWaAIsVCjbli7rixt94qaHfOIrsg",
+        "https://i9.ytimg.com/vi/oRWchhS6OqM/sddefault.jpg?sqp=COT7gcQG-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgYihLMA8=&rs=AOn4CLB3yV3DL0g2iDeF7DEHmTTr8r3UEQ",
+        "https://i9.ytimg.com/vi/oRWchhS6OqM/hq720.jpg?sqp=COT7gcQG-oaymwEfCNYGEOADSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLBGGNqQgnxW69Azzm3dSM8Xpoj8fg",
+        "https://i9.ytimg.com/vi/oRWchhS6OqM/maxresdefault.jpg?sqp=COT7gcQG-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgYihLMA8=&rs=AOn4CLARskJ48xQxhF_lx1YxbAODPg_HlA"
+      ]
+    },
+    {
+      "collected_at": "2025-07-23T15:15:58.976166",
+      "raw_data": {
+        "videoId": "z-ilW9toKzI",
+        "title": "눈",
+        "description": "음-좋았다",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UCj5e25CjZcGqW7FTfZvQN1w",
+        "timePublishedSeconds": "1619782127",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi/z-ilW9toKzI/default.jpg?sqp=COT7gcQG-oaymwEkCHgQWvKriqkDGvABAfgB1AaAAuADigIMCAAQARhlIFkoVjAP&rs=AOn4CLCjX8_K3RFxmVif96YXL5LjxrTZZw",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/z-ilW9toKzI/mqdefault.jpg?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWShWMA8=&rs=AOn4CLDFBqasJXjyYZlNM8M8ZyYTe0MIEw",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/z-ilW9toKzI/hqdefault.jpg?sqp=COT7gcQG-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWShWMA8=&rs=AOn4CLD6qSbRhUesCiP8SeXkkKMNn5skdQ",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/z-ilW9toKzI/sddefault.jpg?sqp=COT7gcQG-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWShWMA8=&rs=AOn4CLCVk4YaJ8C9rQ2uizwcXVmODVXmgg",
+              "width": 640,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/z-ilW9toKzI/hq720.jpg?sqp=COT7gcQG-oaymwEfCNYGEOADSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLA1GitfdGVyDZpUKaYkMG77NV-vww",
+              "width": 854,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/z-ilW9toKzI/maxresdefault.jpg?sqp=COT7gcQG-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWShWMA8=&rs=AOn4CLA3IqhMOiOcR9CZM28KFz4uuiu0eg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_MANAGER"
+          ]
+        },
+        "lengthSeconds": "37",
+        "timeCreatedSeconds": "1619782073",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "thumbnailEditorState": {
+          "stills": [
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/z-ilW9toKzI/mq1.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgUyhQMA8=&rs=AOn4CLArK6GPLEHaBQeWjg423_wtNjNxvA",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/z-ilW9toKzI/mq2.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWShWMA8=&rs=AOn4CLA-1Qj15FHieGy8LFxbVK8wl6TU9Q",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/z-ilW9toKzI/mq3.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGF0gXShdMA8=&rs=AOn4CLD5mVADC4Z8D8t2KuoynOp0rlskIA",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            }
+          ],
+          "stillId": 2,
+          "defaultStill": true
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customThumbnails": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "playVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "shareVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "editVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "deleteVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "ageGatedUi": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "tvType": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "regionalAvailability": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "genreInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "episodeInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "releaseTime": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "primetimeAnalytics": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "broadcastStreamSettings": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "sphericalSetting": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "titleAndDescription": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "captionSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "recordingDate": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "remixSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "sponsorsOnlyVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "videoProductTagging": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "creatorMusicLicensing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "shortsAdsMonetization": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "automatedDubbing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "metadataExperiment": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "multiTrackAudio": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "autoDubDefaultOn": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "collaboration": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=z-ilW9toKzI&t=QUFFLUhqbXJndGZMYVFwTGxfWjk3YkhOOTQxT3VmS0dod3xBQ3Jtc0trWlR0UVhPQjNwOFpZQ0pCN2NJVmFWWHJEbFJESTRaRkJmdXhEOGNDb2h0QjFJXy1XUWpUY2Z4emhzOGI2NnZHclJWdWExdXhydk5HTHNpUlJPdTdxTE9fWGd4aTliVlUzR1F3NVlqUG5kaXNxU3pOUQ%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=z-ilW9toKzI",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "videoStreamUrl": "https://rr2---sn-oguesnde.c.youtube.com/videoplayback?expire=1753280156&ei=HH6AaNytLeG32roP1susiQU&ip=220.118.212.147&cp=X19UZGF5bmItNU1EUUhRTVo6WTdCSmpSMkFubWprZ295Uk4xUlI2dlJJY2o5ZVFLMkZFUVN4N0NvSXpwRg&id=cfe8a55bdb682b32&itag=18&source=youtube&requiressl=yes&xpc=Egho2aDSNXoBAQ%3D%3D&met=1753251356%2C&mh=36&mm=32&mn=sn-oguesnde&ms=su&mv=m&mvi=2&pl=17&rms=su%2Csu&sc=yes&susc=ytcp&mime=video%2Fmp4&vprv=1&rqh=1&ratebypass=yes&dur=36.176&lmt=1705406298821525&mt=1753250937&txp=6218224&sparams=expire%2Cei%2Cip%2Ccp%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Cmime%2Cvprv%2Crqh%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhAIzoqsB51gQzmfSDLPp0vthlaw6RK4z_kTvuUIYWVuK-AiEAmVH3If6tEQ57itAmqWZD6HJhN633O-GcBXwIQG2NqWQ%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Csc&lsig=APaTxxMwRAIgH4FGC2rR_AAIwZh6_vCiT24mh3oZO5cWcrcSWNIaKCECIAl-QeQz4ZZKNsdmiHcH178Y_ep7kXqIGcZ-ipTYQCQQ",
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "눈"
+            }
+          ]
+        },
+        "descriptionFormattedString": {
+          "runs": [
+            {
+              "text": "음-좋았다"
+            }
+          ]
+        },
+        "allRestrictions": {},
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_DONE",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true
+        },
+        "privateShare": {},
+        "publicShorts": {
+          "isShortsRenderable": false
+        },
+        "remix": {
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "privateMetrics": {
+          "clipCount": "0",
+          "dislikeCount": "0"
+        },
+        "publicMetrics": {
+          "viewCount": "15",
+          "commentCount": "0",
+          "likeCount": "0",
+          "externalViewCount": "15"
+        },
+        "shorts": {
+          "isShortsRenderable": false
+        },
+        "shareUrl": "https://youtu.be/z-ilW9toKzI",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "descriptionDetails": {
+          "segments": {
+            "textSegments": [
+              {
+                "text": "음-좋았다"
+              }
+            ]
+          }
+        },
+        "tvfilmMetadata": {},
+        "alteredContentSettings": {
+          "creatorDisclosedHasAlteredContent": "VIDEO_HAS_ALTERED_CONTENT_UNSPECIFIED"
+        },
+        "videoCreatorExperiment": {},
+        "loggingDirectives": {
+          "trackingParams": "CBUQiI4CGAQiEwixpraiqtKOAxU9AXsHHRX7LLo="
+        }
+      },
+      "videoId": "z-ilW9toKzI",
+      "title": "눈",
+      "description": "음-좋았다",
+      "privacy": "VIDEO_PRIVACY_PUBLIC",
+      "lengthSeconds": "37",
+      "timeCreatedSeconds": "1619782073",
+      "timePublishedSeconds": "1619782127",
+      "status": "VIDEO_STATUS_PROCESSED",
+      "watchUrl": "https://www.youtube.com/watch?v=z-ilW9toKzI",
+      "shareUrl": "https://youtu.be/z-ilW9toKzI",
+      "public_viewCount": "15",
+      "public_commentCount": "0",
+      "public_likeCount": "0",
+      "public_externalViewCount": "15",
+      "private_clipCount": "0",
+      "private_dislikeCount": "0",
+      "thumbnail_urls": [
+        "https://i9.ytimg.com/vi/z-ilW9toKzI/default.jpg?sqp=COT7gcQG-oaymwEkCHgQWvKriqkDGvABAfgB1AaAAuADigIMCAAQARhlIFkoVjAP&rs=AOn4CLCjX8_K3RFxmVif96YXL5LjxrTZZw",
+        "https://i9.ytimg.com/vi/z-ilW9toKzI/mqdefault.jpg?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWShWMA8=&rs=AOn4CLDFBqasJXjyYZlNM8M8ZyYTe0MIEw",
+        "https://i9.ytimg.com/vi/z-ilW9toKzI/hqdefault.jpg?sqp=COT7gcQG-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWShWMA8=&rs=AOn4CLD6qSbRhUesCiP8SeXkkKMNn5skdQ",
+        "https://i9.ytimg.com/vi/z-ilW9toKzI/sddefault.jpg?sqp=COT7gcQG-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWShWMA8=&rs=AOn4CLCVk4YaJ8C9rQ2uizwcXVmODVXmgg",
+        "https://i9.ytimg.com/vi/z-ilW9toKzI/hq720.jpg?sqp=COT7gcQG-oaymwEfCNYGEOADSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLA1GitfdGVyDZpUKaYkMG77NV-vww",
+        "https://i9.ytimg.com/vi/z-ilW9toKzI/maxresdefault.jpg?sqp=COT7gcQG-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWShWMA8=&rs=AOn4CLA3IqhMOiOcR9CZM28KFz4uuiu0eg"
+      ]
+    },
+    {
+      "collected_at": "2025-07-23T15:15:58.976327",
+      "raw_data": {
+        "videoId": "2cvolOngHjw",
+        "title": "가은",
+        "description": "별 찍으러 갔을 때",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UCj5e25CjZcGqW7FTfZvQN1w",
+        "timePublishedSeconds": "1619781678",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi/2cvolOngHjw/default.jpg?sqp=COT7gcQG-oaymwEkCHgQWvKriqkDGvABAfgBjAKAAuADigIMCAAQARhjIGMoYzAP&rs=AOn4CLCzS5-d62V0Vt0nI-0wixLL3iA_xA",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/2cvolOngHjw/hq720.jpg?sqp=COT7gcQG-oaymwEdCI4CEOADSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLAZrYtMoVWO7r3HKbo91R1xiqlPDw",
+              "width": 270,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/2cvolOngHjw/mqdefault.jpg?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLAySDlLHdGfINnXr5JiooGq9otiNw",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/2cvolOngHjw/hqdefault.jpg?sqp=COT7gcQG-oaymwEmCOADEOgC8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLCHavne0dFlMZ2MGF036cZoqPc4hA",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/2cvolOngHjw/sddefault.jpg?sqp=COT7gcQG-oaymwEmCIAFEOAD8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLBYFYZpwI650YGmQOtDb8nJhsstRA",
+              "width": 640,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/2cvolOngHjw/maxresdefault.jpg?sqp=COT7gcQG-oaymwEmCIAKENAF8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLBeD00mtdUIPtQfz1IGNgwLgouM5w",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_MANAGER"
+          ]
+        },
+        "lengthSeconds": "62",
+        "timeCreatedSeconds": "1619781654",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "thumbnailEditorState": {
+          "stills": [
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/2cvolOngHjw/mq1.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGIgYihiMA8=&rs=AOn4CLAZNGSY7HQIxknULtk5WnnoUr8KFA",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/2cvolOngHjw/mq2.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGHIgTShBMA8=&rs=AOn4CLBWN3bjpw88TruCC9PZPPKHCzUUvQ",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/2cvolOngHjw/mq3.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGHIgTShBMA8=&rs=AOn4CLC0gKt1oC3xzNfKd7SjsDgC8EgWag",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            }
+          ],
+          "stillId": 2,
+          "defaultStill": true
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customThumbnails": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "playVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "shareVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "editVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "deleteVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "ageGatedUi": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "tvType": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "regionalAvailability": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "genreInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "episodeInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "releaseTime": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "primetimeAnalytics": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "broadcastStreamSettings": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "sphericalSetting": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "titleAndDescription": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "captionSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "recordingDate": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "remixSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "sponsorsOnlyVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "videoProductTagging": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": {
+              "hasCopyrightIssues": true
+            }
+          },
+          "creatorMusicLicensing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "shortsAdsMonetization": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "automatedDubbing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "metadataExperiment": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "multiTrackAudio": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "autoDubDefaultOn": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "collaboration": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=2cvolOngHjw&t=QUFFLUhqbW5HU0tLeTRaZlY5ci1oeW9ydVpaY3lseWllUXxBQ3Jtc0tscy05dkY2OUZHWnRKVXNlemtDdkZSSlhUbFNQOXIxMDF6eWVoc0RxV0IyVmVRdnUwNEI5SFdqRFRZUElsU0hRTzZOeTJJNUZNTzZzdWpzeVE3NjM1ZDY1TFg3V3p0dVhpem9hM1V0MkZmSUJZVkVsUQ%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=2cvolOngHjw",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "videoStreamUrl": "https://rr2---sn-oguelney.c.youtube.com/videoplayback?expire=1753280156&ei=HH6AaNXRK_zm7OsPvrGp4A0&ip=220.118.212.147&cp=X19UZGF5bmItNU1EUUhRTVo6WTdCSmpSMkFubWprZ295Uk4xUlI2dlJJY2o5ZVFLMkZFUVN4N0NvSXpwRg&id=d9cbe894e9e01e3c&itag=18&source=youtube&requiressl=yes&xpc=Egho2aDSNXoBAQ%3D%3D&met=1753251356%2C&mh=K9&mm=32&mn=sn-oguelney&ms=su&mv=m&mvi=2&pl=17&rms=su%2Csu&sc=yes&susc=ytcp&mime=video%2Fmp4&vprv=1&rqh=1&ratebypass=yes&dur=61.811&lmt=1724400751660783&mt=1753250937&txp=6210224&sparams=expire%2Cei%2Cip%2Ccp%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Cmime%2Cvprv%2Crqh%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRAIgLLryyefGAtlLv9MstbvSQxgnZy7RMBM_879Lk3YBlkcCIAhmAU1oIg1jZBFBre8WqKy0OjK1XaZ4ZXbkBljulQwY&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Csc&lsig=APaTxxMwRgIhALSFp8Mp39iRBMGm2xoKKzyajVsvXggrgJ4DhYyv9LAoAiEA1OJqAZ9JT2VEV7G18YXD4By03TnDLTw7OhhwJThRAW0%3D",
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "가은"
+            }
+          ]
+        },
+        "descriptionFormattedString": {
+          "runs": [
+            {
+              "text": "별 찍으러 갔을 때"
+            }
+          ]
+        },
+        "allRestrictions": {
+          "restrictions": [
+            {
+              "reason": "VIDEO_RESTRICTION_REASON_COPYRIGHT",
+              "visibilityEffect": "VIDEO_RESTRICTION_EFFECT_NOT_RESTRICTED",
+              "copyright": {
+                "type": "COPYRIGHT_RESTRICTION_TYPE_COPYRIGHT",
+                "detail": "COPYRIGHT_RESTRICTION_DETAIL_M10N_TRACK_POLICY",
+                "properties": {
+                  "wasCopyrightProtectedContentFound": true,
+                  "isFyiRestriction": false,
+                  "coverRevshareStatus": "COVER_REVSHARE_STATUS_NOT_ELIGIBLE",
+                  "creatorRevshareStatus": "CREATOR_REVSHARE_STATUS_NOT_ELIGIBLE"
+                },
+                "actions": [
+                  "DEFAULT_RESOLUTION_ACTION_VIEW_DETAIL"
+                ]
+              }
+            }
+          ]
+        },
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_UNKNOWN",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true
+        },
+        "privateShare": {},
+        "publicShorts": {
+          "isShortsRenderable": false
+        },
+        "remix": {
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "privateMetrics": {
+          "clipCount": "0",
+          "dislikeCount": "0"
+        },
+        "publicMetrics": {
+          "viewCount": "6",
+          "commentCount": "0",
+          "likeCount": "0",
+          "externalViewCount": "6"
+        },
+        "shorts": {
+          "isShortsRenderable": false
+        },
+        "shareUrl": "https://youtu.be/2cvolOngHjw",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "descriptionDetails": {
+          "segments": {
+            "textSegments": [
+              {
+                "text": "별 찍으러 갔을 때"
+              }
+            ]
+          }
+        },
+        "tvfilmMetadata": {},
+        "alteredContentSettings": {
+          "creatorDisclosedHasAlteredContent": "VIDEO_HAS_ALTERED_CONTENT_UNSPECIFIED"
+        },
+        "videoCreatorExperiment": {},
+        "loggingDirectives": {
+          "trackingParams": "CBMQiI4CGAYiEwixpraiqtKOAxU9AXsHHRX7LLo="
+        }
+      },
+      "videoId": "2cvolOngHjw",
+      "title": "가은",
+      "description": "별 찍으러 갔을 때",
+      "privacy": "VIDEO_PRIVACY_PUBLIC",
+      "lengthSeconds": "62",
+      "timeCreatedSeconds": "1619781654",
+      "timePublishedSeconds": "1619781678",
+      "status": "VIDEO_STATUS_PROCESSED",
+      "watchUrl": "https://www.youtube.com/watch?v=2cvolOngHjw",
+      "shareUrl": "https://youtu.be/2cvolOngHjw",
+      "public_viewCount": "6",
+      "public_commentCount": "0",
+      "public_likeCount": "0",
+      "public_externalViewCount": "6",
+      "private_clipCount": "0",
+      "private_dislikeCount": "0",
+      "thumbnail_urls": [
+        "https://i9.ytimg.com/vi/2cvolOngHjw/default.jpg?sqp=COT7gcQG-oaymwEkCHgQWvKriqkDGvABAfgBjAKAAuADigIMCAAQARhjIGMoYzAP&rs=AOn4CLCzS5-d62V0Vt0nI-0wixLL3iA_xA",
+        "https://i9.ytimg.com/vi/2cvolOngHjw/hq720.jpg?sqp=COT7gcQG-oaymwEdCI4CEOADSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLAZrYtMoVWO7r3HKbo91R1xiqlPDw",
+        "https://i9.ytimg.com/vi/2cvolOngHjw/mqdefault.jpg?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLAySDlLHdGfINnXr5JiooGq9otiNw",
+        "https://i9.ytimg.com/vi/2cvolOngHjw/hqdefault.jpg?sqp=COT7gcQG-oaymwEmCOADEOgC8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLCHavne0dFlMZ2MGF036cZoqPc4hA",
+        "https://i9.ytimg.com/vi/2cvolOngHjw/sddefault.jpg?sqp=COT7gcQG-oaymwEmCIAFEOAD8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLBYFYZpwI650YGmQOtDb8nJhsstRA",
+        "https://i9.ytimg.com/vi/2cvolOngHjw/maxresdefault.jpg?sqp=COT7gcQG-oaymwEmCIAKENAF8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLBeD00mtdUIPtQfz1IGNgwLgouM5w"
+      ]
+    },
+    {
+      "collected_at": "2025-07-23T15:15:58.976400",
+      "raw_data": {
+        "videoId": "DpREZDCXvsI",
+        "title": "미끄럼틀",
+        "description": "여의도 한강공원",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UCj5e25CjZcGqW7FTfZvQN1w",
+        "timePublishedSeconds": "1619418385",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi/DpREZDCXvsI/default.jpg?sqp=COT7gcQG-oaymwEkCHgQWvKriqkDGvABAfgB0gaAAuADigIMCAAQARh_IFwoKTAP&rs=AOn4CLC8vXFZabww8IuDhoLbogazGMGFQA",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/DpREZDCXvsI/mqdefault.jpg?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGH8gXCgpMA8=&rs=AOn4CLD3VafjhGddL9LJQ4bZFwKbdSGSQg",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/DpREZDCXvsI/hqdefault.jpg?sqp=COT7gcQG-oaymwEmCOADEOgC8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGH8gXCgpMA8=&rs=AOn4CLArUUWNYMw62fHjdcV6dKpOfBn0Fg",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/DpREZDCXvsI/hqdefault.jpg?sqp=COT7gcQG-oaymwEfCOADEI4CSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLA32TLzSaGmnbWwuC71pL1gn0IRFQ",
+              "width": 480,
+              "height": 270
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/DpREZDCXvsI/sddefault.jpg?sqp=COT7gcQG-oaymwEmCIAFEOAD8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGH8gXCgpMA8=&rs=AOn4CLAib1g9mPBvHcsysFc6isLD97rwNw",
+              "width": 640,
+              "height": 480
+            }
+          ]
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_MANAGER"
+          ]
+        },
+        "lengthSeconds": "17",
+        "timeCreatedSeconds": "1619418360",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "thumbnailEditorState": {
+          "stills": [
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/DpREZDCXvsI/mq1.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGFYgZShPMA8=&rs=AOn4CLDyA6cNbwqGT933tFtksdAvRxN2tQ",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/DpREZDCXvsI/mq2.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGH8gXCgpMA8=&rs=AOn4CLA-PYaj3IU54i2c8f0Y7ICigqL_Iw",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/DpREZDCXvsI/mq3.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGGQgZShPMA8=&rs=AOn4CLBXe0xdU60K5LQIBzp5cSg-J6sz-w",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            }
+          ],
+          "stillId": 2,
+          "defaultStill": true
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customThumbnails": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "playVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "shareVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "editVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "deleteVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "ageGatedUi": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "tvType": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "regionalAvailability": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "genreInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "episodeInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "releaseTime": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "primetimeAnalytics": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "broadcastStreamSettings": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "sphericalSetting": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "titleAndDescription": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "captionSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "recordingDate": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "remixSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "sponsorsOnlyVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "videoProductTagging": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "creatorMusicLicensing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "shortsAdsMonetization": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "automatedDubbing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "metadataExperiment": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "multiTrackAudio": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "autoDubDefaultOn": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "collaboration": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=DpREZDCXvsI&t=QUFFLUhqbW4zMWZTdEpsb2p4Nk5pSnhLTExUM29GTDAzd3xBQ3Jtc0tuaGZ6bnAtTEFXNGNEaDJxMjdLTUJuN0twUEIzNjVrLTlST0UxSm5yZVRuZkh6YWlqYUpNSjkzVzZjTmJ3akVURTVGeDJhNTlTWjU4Y3JPVDY4eGRSZnNIY1lsTkFJclBpbjlMY2xLcVdlSWVTdDVVdw%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=DpREZDCXvsI",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "videoStreamUrl": "https://rr3---sn-oguesnd6.c.youtube.com/videoplayback?expire=1753280156&ei=HH6AaI6ALcXds8IPtfeQiA0&ip=220.118.212.147&cp=X19UZGF5bmItNU1EUUhRTVo6WTdCSmpSMkFubWprZ295Uk4xUlI2dlJJY2o5ZVFLMkZFUVN4N0NvSXpwRg&id=0e9444643097bec2&itag=18&source=youtube&requiressl=yes&xpc=Egho2aDSNXoBAQ%3D%3D&met=1753251356%2C&mh=BW&mm=32&mn=sn-oguesnd6&ms=su&mv=m&mvi=3&pl=17&rms=su%2Csu&sc=yes&susc=ytcp&mime=video%2Fmp4&vprv=1&rqh=1&ratebypass=yes&dur=16.973&lmt=1674596812087235&mt=1753251181&txp=6219224&sparams=expire%2Cei%2Cip%2Ccp%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Cmime%2Cvprv%2Crqh%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRAIgKqMMdgd1AynihnlS_F7N0mpMg3rNMWmEgn7G_pIpPNQCIAql0pkNPDH2CfoOy_nHrtOvfmhTmFh0mGkozCB3ehxq&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Csc&lsig=APaTxxMwRQIhAPsj03PDT9S1KXRgzuxqahHVyE6zrzYaIqLlzW-POh8EAiAbQSUs8OAFzSp9-RD049MSpLYXuR1UuBcNw2-pGfk08g%3D%3D",
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "미끄럼틀"
+            }
+          ]
+        },
+        "descriptionFormattedString": {
+          "runs": [
+            {
+              "text": "여의도 한강공원"
+            }
+          ]
+        },
+        "allRestrictions": {},
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_UNKNOWN",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true
+        },
+        "privateShare": {},
+        "publicShorts": {
+          "isShortsRenderable": false
+        },
+        "remix": {
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "privateMetrics": {
+          "clipCount": "0",
+          "dislikeCount": "0"
+        },
+        "publicMetrics": {
+          "viewCount": "11",
+          "commentCount": "0",
+          "likeCount": "0",
+          "externalViewCount": "11"
+        },
+        "shorts": {
+          "isShortsRenderable": false
+        },
+        "shareUrl": "https://youtu.be/DpREZDCXvsI",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "descriptionDetails": {
+          "segments": {
+            "textSegments": [
+              {
+                "text": "여의도 한강공원"
+              }
+            ]
+          }
+        },
+        "tvfilmMetadata": {},
+        "alteredContentSettings": {
+          "creatorDisclosedHasAlteredContent": "VIDEO_HAS_ALTERED_CONTENT_UNSPECIFIED"
+        },
+        "videoCreatorExperiment": {},
+        "loggingDirectives": {
+          "trackingParams": "CBIQiI4CGAciEwixpraiqtKOAxU9AXsHHRX7LLo="
+        }
+      },
+      "videoId": "DpREZDCXvsI",
+      "title": "미끄럼틀",
+      "description": "여의도 한강공원",
+      "privacy": "VIDEO_PRIVACY_PUBLIC",
+      "lengthSeconds": "17",
+      "timeCreatedSeconds": "1619418360",
+      "timePublishedSeconds": "1619418385",
+      "status": "VIDEO_STATUS_PROCESSED",
+      "watchUrl": "https://www.youtube.com/watch?v=DpREZDCXvsI",
+      "shareUrl": "https://youtu.be/DpREZDCXvsI",
+      "public_viewCount": "11",
+      "public_commentCount": "0",
+      "public_likeCount": "0",
+      "public_externalViewCount": "11",
+      "private_clipCount": "0",
+      "private_dislikeCount": "0",
+      "thumbnail_urls": [
+        "https://i9.ytimg.com/vi/DpREZDCXvsI/default.jpg?sqp=COT7gcQG-oaymwEkCHgQWvKriqkDGvABAfgB0gaAAuADigIMCAAQARh_IFwoKTAP&rs=AOn4CLC8vXFZabww8IuDhoLbogazGMGFQA",
+        "https://i9.ytimg.com/vi/DpREZDCXvsI/mqdefault.jpg?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGH8gXCgpMA8=&rs=AOn4CLD3VafjhGddL9LJQ4bZFwKbdSGSQg",
+        "https://i9.ytimg.com/vi/DpREZDCXvsI/hqdefault.jpg?sqp=COT7gcQG-oaymwEmCOADEOgC8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGH8gXCgpMA8=&rs=AOn4CLArUUWNYMw62fHjdcV6dKpOfBn0Fg",
+        "https://i9.ytimg.com/vi/DpREZDCXvsI/hqdefault.jpg?sqp=COT7gcQG-oaymwEfCOADEI4CSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLA32TLzSaGmnbWwuC71pL1gn0IRFQ",
+        "https://i9.ytimg.com/vi/DpREZDCXvsI/sddefault.jpg?sqp=COT7gcQG-oaymwEmCIAFEOAD8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGH8gXCgpMA8=&rs=AOn4CLAib1g9mPBvHcsysFc6isLD97rwNw"
+      ]
+    },
+    {
+      "collected_at": "2025-07-23T15:15:58.976454",
+      "raw_data": {
+        "videoId": "WqPnuiSOorQ",
+        "title": "전역하고싶다",
+        "description": "",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UCj5e25CjZcGqW7FTfZvQN1w",
+        "timePublishedSeconds": "1619418133",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi/WqPnuiSOorQ/default.jpg?sqp=COT7gcQG-oaymwEkCHgQWvKriqkDGvABAfgBzgWAApQDigIMCAAQARhlIF4oVzAP&rs=AOn4CLDiAfvT7QnEgU4NgDNDeqsbm83GGw",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/WqPnuiSOorQ/mqdefault.jpg?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHOBYAClAOKAgwIABABGGUgXihXMA8=&rs=AOn4CLAu_5u6oay86yYXwtVoEjUVU_qihg",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/WqPnuiSOorQ/hqdefault.jpg?sqp=COT7gcQG-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBYAClAOKAgwIABABGGUgXihXMA8=&rs=AOn4CLAMMFXpWXh4PzF0MxnC4AaTtjycxA",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/WqPnuiSOorQ/hqdefault.jpg?sqp=COT7gcQG-oaymwEfCOADEI0CSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLCziAFMaFsY-E6xCLv8vN6FX_heog",
+              "width": 480,
+              "height": 269
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/WqPnuiSOorQ/sddefault.jpg?sqp=COT7gcQG-oaymwEmCIAFEOAD8quKqQMa8AEB-AHOBYAClAOKAgwIABABGGUgXihXMA8=&rs=AOn4CLDl3LK0M0NlyXDpynpUXIQij2oa4w",
+              "width": 640,
+              "height": 480
+            }
+          ]
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_MANAGER"
+          ]
+        },
+        "lengthSeconds": "26",
+        "timeCreatedSeconds": "1619418114",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "thumbnailEditorState": {
+          "stills": [
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/WqPnuiSOorQ/mq1.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHOBYAClAOKAgwIABABGGUgXShVMA8=&rs=AOn4CLAYYH1vd8_vMaIAC8NJI-IHAlBwCA",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/WqPnuiSOorQ/mq2.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHOBYAClAOKAgwIABABGGUgXihXMA8=&rs=AOn4CLABr4FDGx47hal4SBooBS-6-Mlxxw",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/WqPnuiSOorQ/mq3.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHOBYAClAOKAgwIABABGGUgWChHMA8=&rs=AOn4CLC4cEyDcyieiPRXkGhux7wECRjl0Q",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            }
+          ],
+          "stillId": 2,
+          "defaultStill": true
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customThumbnails": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "playVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "shareVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "editVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "deleteVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "ageGatedUi": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "tvType": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "regionalAvailability": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "genreInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "episodeInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "releaseTime": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "primetimeAnalytics": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "broadcastStreamSettings": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "sphericalSetting": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "titleAndDescription": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "captionSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "recordingDate": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "remixSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "sponsorsOnlyVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "videoProductTagging": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "creatorMusicLicensing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "shortsAdsMonetization": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "automatedDubbing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "metadataExperiment": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "multiTrackAudio": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "autoDubDefaultOn": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "collaboration": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=WqPnuiSOorQ&t=QUFFLUhqbWtnSDMwa3Vwb0I4TV9FODVEdTNtZm5wVEdFZ3xBQ3Jtc0trRWJxMkF4ZTVaeXBiSmlQLTJXclBhV3BNcXhpTS1CNFhsU2doWGd5R3VBbHJyZVMyalJxMWZxVHZrQ2ZjM1Y0N3ZHVC1OS2l6UHZEUXdGd3hVYTk0QlZBMWFDbjhqNEdMd1h6RGhLdVpfelVWLTN2QQ%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=WqPnuiSOorQ",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "videoStreamUrl": "https://rr5---sn-ogueln67.c.youtube.com/videoplayback?expire=1753280156&ei=HH6AaIHQKJ_xs8IP2JKmgAw&ip=220.118.212.147&cp=X19UZGF5bmItNU1EUUhRTVo6WTdCSmpSMkFubWprZ295Uk4xUlI2dlJJY2o5ZVFLMkZFUVN4N0NvSXpwRg&id=5aa3e7ba248ea2b4&itag=18&source=youtube&requiressl=yes&xpc=Egho2aDSNXoBAQ%3D%3D&met=1753251356%2C&mh=90&mm=32&mn=sn-ogueln67&ms=su&mv=m&mvi=5&pl=17&rms=su%2Csu&sc=yes&susc=ytcp&mime=video%2Fmp4&vprv=1&rqh=1&ratebypass=yes&dur=25.193&lmt=1676186127153011&mt=1753250937&txp=6219224&sparams=expire%2Cei%2Cip%2Ccp%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Cmime%2Cvprv%2Crqh%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIgIenIXBCcyM0Y2ym8aBgrw0UYxYUq-eHY7XwTFtwo9YQCIQCvns5VnM0TjcHuUld7cLM5nfcTN0geeeovAITH3T_Hrg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Csc&lsig=APaTxxMwRAIgbH20BArwNcrAId9UsZc_qOLvoC5elPAn7I8SSufvWHcCIATN9vcdFC3_SCR54ZubEjvYmSZ6Zpn_SKlITPUBXfAO",
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "전역하고싶다"
+            }
+          ]
+        },
+        "allRestrictions": {},
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_UNKNOWN",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true
+        },
+        "privateShare": {},
+        "publicShorts": {
+          "isShortsRenderable": false
+        },
+        "remix": {
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "privateMetrics": {
+          "clipCount": "0",
+          "dislikeCount": "0"
+        },
+        "publicMetrics": {
+          "viewCount": "79",
+          "commentCount": "0",
+          "likeCount": "0",
+          "externalViewCount": "79"
+        },
+        "shorts": {
+          "isShortsRenderable": false
+        },
+        "shareUrl": "https://youtu.be/WqPnuiSOorQ",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "tvfilmMetadata": {},
+        "alteredContentSettings": {
+          "creatorDisclosedHasAlteredContent": "VIDEO_HAS_ALTERED_CONTENT_UNSPECIFIED"
+        },
+        "videoCreatorExperiment": {},
+        "loggingDirectives": {
+          "trackingParams": "CBEQiI4CGAgiEwixpraiqtKOAxU9AXsHHRX7LLo="
+        }
+      },
+      "videoId": "WqPnuiSOorQ",
+      "title": "전역하고싶다",
+      "description": "",
+      "privacy": "VIDEO_PRIVACY_PUBLIC",
+      "lengthSeconds": "26",
+      "timeCreatedSeconds": "1619418114",
+      "timePublishedSeconds": "1619418133",
+      "status": "VIDEO_STATUS_PROCESSED",
+      "watchUrl": "https://www.youtube.com/watch?v=WqPnuiSOorQ",
+      "shareUrl": "https://youtu.be/WqPnuiSOorQ",
+      "public_viewCount": "79",
+      "public_commentCount": "0",
+      "public_likeCount": "0",
+      "public_externalViewCount": "79",
+      "private_clipCount": "0",
+      "private_dislikeCount": "0",
+      "thumbnail_urls": [
+        "https://i9.ytimg.com/vi/WqPnuiSOorQ/default.jpg?sqp=COT7gcQG-oaymwEkCHgQWvKriqkDGvABAfgBzgWAApQDigIMCAAQARhlIF4oVzAP&rs=AOn4CLDiAfvT7QnEgU4NgDNDeqsbm83GGw",
+        "https://i9.ytimg.com/vi/WqPnuiSOorQ/mqdefault.jpg?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHOBYAClAOKAgwIABABGGUgXihXMA8=&rs=AOn4CLAu_5u6oay86yYXwtVoEjUVU_qihg",
+        "https://i9.ytimg.com/vi/WqPnuiSOorQ/hqdefault.jpg?sqp=COT7gcQG-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBYAClAOKAgwIABABGGUgXihXMA8=&rs=AOn4CLAMMFXpWXh4PzF0MxnC4AaTtjycxA",
+        "https://i9.ytimg.com/vi/WqPnuiSOorQ/hqdefault.jpg?sqp=COT7gcQG-oaymwEfCOADEI0CSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLCziAFMaFsY-E6xCLv8vN6FX_heog",
+        "https://i9.ytimg.com/vi/WqPnuiSOorQ/sddefault.jpg?sqp=COT7gcQG-oaymwEmCIAFEOAD8quKqQMa8AEB-AHOBYAClAOKAgwIABABGGUgXihXMA8=&rs=AOn4CLDl3LK0M0NlyXDpynpUXIQij2oa4w"
+      ]
+    },
+    {
+      "collected_at": "2025-07-23T15:15:58.976563",
+      "raw_data": {
+        "videoId": "HPuPTiMNSgI",
+        "title": "전화",
+        "description": "",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UCj5e25CjZcGqW7FTfZvQN1w",
+        "timePublishedSeconds": "1619418011",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi/HPuPTiMNSgI/default.jpg?sqp=COT7gcQG-oaymwEkCHgQWvKriqkDGvABAfgB0gaAAuADigIMCAAQARhKIGUoSzAP&rs=AOn4CLB9kYWhAwJvCWF8Sz0IjUmuKX2NKQ",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/HPuPTiMNSgI/mqdefault.jpg?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGEogZShLMA8=&rs=AOn4CLAtQJEuPVW7FENsWEAG0Ajm5gHvTg",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/HPuPTiMNSgI/hqdefault.jpg?sqp=COT7gcQG-oaymwEmCOADEOgC8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGEogZShLMA8=&rs=AOn4CLCfR3aoaDIGDCB6Oi2nRBQ7DU-Dsg",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/HPuPTiMNSgI/hqdefault.jpg?sqp=COT7gcQG-oaymwEfCOADEI4CSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLDGYNhCdmheHmZaDBx4gZwU3G3gGQ",
+              "width": 480,
+              "height": 270
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/HPuPTiMNSgI/sddefault.jpg?sqp=COT7gcQG-oaymwEmCIAFEOAD8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGEogZShLMA8=&rs=AOn4CLCWgPNciNIYWR_VbXJc5BZqrL5kpg",
+              "width": 640,
+              "height": 480
+            }
+          ]
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_MANAGER"
+          ]
+        },
+        "lengthSeconds": "33",
+        "timeCreatedSeconds": "1619417986",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "thumbnailEditorState": {
+          "stills": [
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/HPuPTiMNSgI/mq1.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGEogZShjMA8=&rs=AOn4CLBp8GO4NYJHFYrNSwSiKa-E7LR6cw",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/HPuPTiMNSgI/mq2.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGEogZShLMA8=&rs=AOn4CLBGWuna10cpHOZ4QapbM1i9vV75vw",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/HPuPTiMNSgI/mq3.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGFUgVyhlMA8=&rs=AOn4CLA1PIpYiMtEY42ON0kCxrdOLmhfog",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            }
+          ],
+          "stillId": 2,
+          "defaultStill": true
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customThumbnails": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "playVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "shareVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "editVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "deleteVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "ageGatedUi": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "tvType": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "regionalAvailability": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "genreInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "episodeInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "releaseTime": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "primetimeAnalytics": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "broadcastStreamSettings": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "sphericalSetting": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "titleAndDescription": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "captionSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "recordingDate": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "remixSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "sponsorsOnlyVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "videoProductTagging": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "creatorMusicLicensing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "shortsAdsMonetization": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "automatedDubbing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "metadataExperiment": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "multiTrackAudio": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "autoDubDefaultOn": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "collaboration": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=HPuPTiMNSgI&t=QUFFLUhqbWFQMGEzWmpBdU5yWG14dEU2N2ZWdDJQc1BnQXxBQ3Jtc0tsd2RHUGk3N1Q3NWY4eHFjLXN0bUVZQ2hkWXFvN0JxSE1KTGRjTDZ3RHRtTkxQRDJNRXFFZ0h2TnR3VGdocHNpMWdqaEc2YXluRVVQeUxfQTlaVFpsLTdrQ0VFTEx2ZkNwQlY1S2xWYWtLVU4wRGh4VQ%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=HPuPTiMNSgI",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "videoStreamUrl": "https://rr3---sn-oguelnsy.c.youtube.com/videoplayback?expire=1753280156&ei=HH6AaKP0K9OMvcAP3JnS-QM&ip=220.118.212.147&cp=X19UZGF5bmItNU1EUUhRTVo6WTdCSmpSMkFubWprZ295Uk4xUlI2dlJJY2o5ZVFLMkZFUVN4N0NvSXpwRg&id=1cfb8f4e230d4a02&itag=18&source=youtube&requiressl=yes&xpc=Egho2aDSNXoBAQ%3D%3D&met=1753251356%2C&mh=O1&mm=32&mn=sn-oguelnsy&ms=su&mv=m&mvi=3&pl=17&rms=su%2Csu&sc=yes&susc=ytcp&mime=video%2Fmp4&vprv=1&rqh=1&ratebypass=yes&dur=33.065&lmt=1674752893743590&mt=1753251181&txp=6219224&sparams=expire%2Cei%2Cip%2Ccp%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Cmime%2Cvprv%2Crqh%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIgECfaNU2L79MZ-dZuxgHfcMdNAXhDJf0qBg1zgRJYkUwCIQDPahkYzh4Ero9ilm7TGzaLVGtxLfPJtDUSe816mh497Q%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Csc&lsig=APaTxxMwRQIgRFmYPiiufm1KE1XULoPtkwXIvZkaJWlyjIABs2-fDrECIQC7KPKLqCq_U8HNKHPU0AZqvdToUahodjKVp8A2SWFHYA%3D%3D",
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "전화"
+            }
+          ]
+        },
+        "allRestrictions": {},
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_UNKNOWN",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true
+        },
+        "privateShare": {},
+        "publicShorts": {
+          "isShortsRenderable": false
+        },
+        "remix": {
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "privateMetrics": {
+          "clipCount": "0",
+          "dislikeCount": "0"
+        },
+        "publicMetrics": {
+          "viewCount": "7",
+          "commentCount": "0",
+          "likeCount": "0",
+          "externalViewCount": "7"
+        },
+        "shorts": {
+          "isShortsRenderable": false
+        },
+        "shareUrl": "https://youtu.be/HPuPTiMNSgI",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "tvfilmMetadata": {},
+        "alteredContentSettings": {
+          "creatorDisclosedHasAlteredContent": "VIDEO_HAS_ALTERED_CONTENT_UNSPECIFIED"
+        },
+        "videoCreatorExperiment": {},
+        "loggingDirectives": {
+          "trackingParams": "CBAQiI4CGAkiEwixpraiqtKOAxU9AXsHHRX7LLo="
+        }
+      },
+      "videoId": "HPuPTiMNSgI",
+      "title": "전화",
+      "description": "",
+      "privacy": "VIDEO_PRIVACY_PUBLIC",
+      "lengthSeconds": "33",
+      "timeCreatedSeconds": "1619417986",
+      "timePublishedSeconds": "1619418011",
+      "status": "VIDEO_STATUS_PROCESSED",
+      "watchUrl": "https://www.youtube.com/watch?v=HPuPTiMNSgI",
+      "shareUrl": "https://youtu.be/HPuPTiMNSgI",
+      "public_viewCount": "7",
+      "public_commentCount": "0",
+      "public_likeCount": "0",
+      "public_externalViewCount": "7",
+      "private_clipCount": "0",
+      "private_dislikeCount": "0",
+      "thumbnail_urls": [
+        "https://i9.ytimg.com/vi/HPuPTiMNSgI/default.jpg?sqp=COT7gcQG-oaymwEkCHgQWvKriqkDGvABAfgB0gaAAuADigIMCAAQARhKIGUoSzAP&rs=AOn4CLB9kYWhAwJvCWF8Sz0IjUmuKX2NKQ",
+        "https://i9.ytimg.com/vi/HPuPTiMNSgI/mqdefault.jpg?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGEogZShLMA8=&rs=AOn4CLAtQJEuPVW7FENsWEAG0Ajm5gHvTg",
+        "https://i9.ytimg.com/vi/HPuPTiMNSgI/hqdefault.jpg?sqp=COT7gcQG-oaymwEmCOADEOgC8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGEogZShLMA8=&rs=AOn4CLCfR3aoaDIGDCB6Oi2nRBQ7DU-Dsg",
+        "https://i9.ytimg.com/vi/HPuPTiMNSgI/hqdefault.jpg?sqp=COT7gcQG-oaymwEfCOADEI4CSFXyq4qpAxEIARUAAIhCGAFwAcABBtABAQ==&rs=AOn4CLDGYNhCdmheHmZaDBx4gZwU3G3gGQ",
+        "https://i9.ytimg.com/vi/HPuPTiMNSgI/sddefault.jpg?sqp=COT7gcQG-oaymwEmCIAFEOAD8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGEogZShLMA8=&rs=AOn4CLCWgPNciNIYWR_VbXJc5BZqrL5kpg"
+      ]
+    },
+    {
+      "collected_at": "2025-07-23T15:15:58.976647",
+      "raw_data": {
+        "videoId": "fr7pB_QX0-k",
+        "title": "별",
+        "description": "가은 가는 길",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UCj5e25CjZcGqW7FTfZvQN1w",
+        "timePublishedSeconds": "1619417914",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi/fr7pB_QX0-k/default.jpg?sqp=COT7gcQG-oaymwEkCHgQWvKriqkDGvABAfgBjAKAAuADigIMCAAQARhjIGMoYzAP&rs=AOn4CLDQ_Q6V918vjtmG4VK9XSri2yP87A",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/fr7pB_QX0-k/hq720.jpg?sqp=COT7gcQG-oaymwEdCI4CEOADSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLBzP0hKRiZpXgJykcxO1mqNkhndQg",
+              "width": 270,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/fr7pB_QX0-k/mqdefault.jpg?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLDdlDHBz6bQ0CcJXUmMXPW2AY6Esg",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/fr7pB_QX0-k/hqdefault.jpg?sqp=COT7gcQG-oaymwEmCOADEOgC8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLBU-LBBEW8WspDHn6_U3kGCUxxWeA",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/fr7pB_QX0-k/sddefault.jpg?sqp=COT7gcQG-oaymwEmCIAFEOAD8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLCjR5gTOP7uq0TNZZv9AzJulY-KZA",
+              "width": 640,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/fr7pB_QX0-k/maxresdefault.jpg?sqp=COT7gcQG-oaymwEmCIAKENAF8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLD2oUbUA8k581CXv6afyOtf2BmvNA",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENTS_MANAGER"
+          ]
+        },
+        "lengthSeconds": "62",
+        "timeCreatedSeconds": "1619417881",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "thumbnailEditorState": {
+          "stills": [
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/fr7pB_QX0-k/mq1.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAAW6WxFxbTWPlj5QZpq-t_qrR-2A",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/fr7pB_QX0-k/mq2.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGIgYihiMA8=&rs=AOn4CLAetrdBmVCXTf0PbacKZ3XDrgF21A",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            },
+            {
+              "thumbnails": [
+                {
+                  "url": "https://i9.ytimg.com/vi_webp/fr7pB_QX0-k/mq3.webp?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAD82o0hBeqRXleLhwg5IOCCRbHBQ",
+                  "width": 320,
+                  "height": 180
+                }
+              ]
+            }
+          ],
+          "stillId": 2,
+          "defaultStill": true
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customThumbnails": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "playVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "shareVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "editVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "deleteVideo": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "ageGatedUi": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "tvType": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "regionalAvailability": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "genreInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "episodeInfo": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "releaseTime": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "primetimeAnalytics": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "broadcastStreamSettings": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": "CREATOR_FEATURE_STATUS_DETAILS_NOT_APPLICABLE"
+          },
+          "sphericalSetting": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "titleAndDescription": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "captionSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "recordingDate": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "remixSettings": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "sponsorsOnlyVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "videoProductTagging": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED",
+            "statusDetails": {
+              "hasCopyrightIssues": true
+            }
+          },
+          "creatorMusicLicensing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "shortsAdsMonetization": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "automatedDubbing": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "metadataExperiment": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "multiTrackAudio": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "autoDubDefaultOn": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "collaboration": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=fr7pB_QX0-k&t=QUFFLUhqa0lFQlhTU0V1QlpnSnl5dDhTTld6b1FHUkxpQXxBQ3Jtc0ttMlBFSjRCSkJkdmdpOXpvVklTZFMxUHdTSEhDcHQ1YXQ3bTFzNmNPTXotNXdxNWtiMk5ScE9DYS1GVmxWbXFPcGNwV29YYmtqT0FRNkh1M2stbHhyYl9wdUJQZ0t1T0pYNDdGR1VRd19MQnd0WXZhcw%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=fr7pB_QX0-k",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "videoStreamUrl": "https://rr3---sn-oguelnzy.c.youtube.com/videoplayback?expire=1753280156&ei=HH6AaM_GKeuPvcAP8b7OqAU&ip=220.118.212.147&cp=X19UZGF5bmItNU1EUUhRTVo6WTdCSmpSMkFubWprZ295Uk4xUlI2dlJJY2o5ZVFLMkZFUVN4N0NvSXpwRg&id=7ebee907f417d3e9&itag=18&source=youtube&requiressl=yes&xpc=Egho2aDSNXoBAQ%3D%3D&met=1753251356%2C&mh=em&mm=32&mn=sn-oguelnzy&ms=su&mv=m&mvi=3&pl=17&rms=su%2Csu&sc=yes&susc=ytcp&mime=video%2Fmp4&vprv=1&rqh=1&ratebypass=yes&dur=61.811&lmt=1644191866612594&mt=1753251181&txp=6218224&sparams=expire%2Cei%2Cip%2Ccp%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Cmime%2Cvprv%2Crqh%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhALPoJEr7WVWoLUT48KIgAKPgHC87EFcWMHQUofnlxNDUAiEAk3IMxyxQLD-iX2aWIQLb7Sw9lO1soSYqR18oz667UnA%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Csc&lsig=APaTxxMwRAIgQBu8GtbPdVCR-lsfgm5ORMHHOtFEKWgzSgBHlBczUS0CIC3mIPsNBKsQOT43S4pXw689_XTY_Jhvob0usvjyD7k2",
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "별"
+            }
+          ]
+        },
+        "descriptionFormattedString": {
+          "runs": [
+            {
+              "text": "가은 가는 길"
+            }
+          ]
+        },
+        "allRestrictions": {
+          "restrictions": [
+            {
+              "reason": "VIDEO_RESTRICTION_REASON_COPYRIGHT",
+              "visibilityEffect": "VIDEO_RESTRICTION_EFFECT_NOT_RESTRICTED",
+              "copyright": {
+                "type": "COPYRIGHT_RESTRICTION_TYPE_COPYRIGHT",
+                "detail": "COPYRIGHT_RESTRICTION_DETAIL_M10N_TRACK_POLICY",
+                "properties": {
+                  "wasCopyrightProtectedContentFound": true,
+                  "isFyiRestriction": false,
+                  "coverRevshareStatus": "COVER_REVSHARE_STATUS_NOT_ELIGIBLE",
+                  "creatorRevshareStatus": "CREATOR_REVSHARE_STATUS_NOT_ELIGIBLE"
+                },
+                "actions": [
+                  "DEFAULT_RESOLUTION_ACTION_VIEW_DETAIL"
+                ]
+              }
+            }
+          ]
+        },
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_UNKNOWN",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true
+        },
+        "privateShare": {},
+        "publicShorts": {
+          "isShortsRenderable": false
+        },
+        "remix": {
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "privateMetrics": {
+          "clipCount": "0",
+          "dislikeCount": "0"
+        },
+        "publicMetrics": {
+          "viewCount": "3",
+          "commentCount": "0",
+          "likeCount": "0",
+          "externalViewCount": "3"
+        },
+        "shorts": {
+          "isShortsRenderable": false
+        },
+        "shareUrl": "https://youtu.be/fr7pB_QX0-k",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "descriptionDetails": {
+          "segments": {
+            "textSegments": [
+              {
+                "text": "가은 가는 길"
+              }
+            ]
+          }
+        },
+        "tvfilmMetadata": {},
+        "alteredContentSettings": {
+          "creatorDisclosedHasAlteredContent": "VIDEO_HAS_ALTERED_CONTENT_UNSPECIFIED"
+        },
+        "videoCreatorExperiment": {},
+        "loggingDirectives": {
+          "trackingParams": "CA8QiI4CGAoiEwixpraiqtKOAxU9AXsHHRX7LLo="
+        }
+      },
+      "videoId": "fr7pB_QX0-k",
+      "title": "별",
+      "description": "가은 가는 길",
+      "privacy": "VIDEO_PRIVACY_PUBLIC",
+      "lengthSeconds": "62",
+      "timeCreatedSeconds": "1619417881",
+      "timePublishedSeconds": "1619417914",
+      "status": "VIDEO_STATUS_PROCESSED",
+      "watchUrl": "https://www.youtube.com/watch?v=fr7pB_QX0-k",
+      "shareUrl": "https://youtu.be/fr7pB_QX0-k",
+      "public_viewCount": "3",
+      "public_commentCount": "0",
+      "public_likeCount": "0",
+      "public_externalViewCount": "3",
+      "private_clipCount": "0",
+      "private_dislikeCount": "0",
+      "thumbnail_urls": [
+        "https://i9.ytimg.com/vi/fr7pB_QX0-k/default.jpg?sqp=COT7gcQG-oaymwEkCHgQWvKriqkDGvABAfgBjAKAAuADigIMCAAQARhjIGMoYzAP&rs=AOn4CLDQ_Q6V918vjtmG4VK9XSri2yP87A",
+        "https://i9.ytimg.com/vi/fr7pB_QX0-k/hq720.jpg?sqp=COT7gcQG-oaymwEdCI4CEOADSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLBzP0hKRiZpXgJykcxO1mqNkhndQg",
+        "https://i9.ytimg.com/vi/fr7pB_QX0-k/mqdefault.jpg?sqp=COT7gcQG-oaymwEmCMACELQB8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLDdlDHBz6bQ0CcJXUmMXPW2AY6Esg",
+        "https://i9.ytimg.com/vi/fr7pB_QX0-k/hqdefault.jpg?sqp=COT7gcQG-oaymwEmCOADEOgC8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLBU-LBBEW8WspDHn6_U3kGCUxxWeA",
+        "https://i9.ytimg.com/vi/fr7pB_QX0-k/sddefault.jpg?sqp=COT7gcQG-oaymwEmCIAFEOAD8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLCjR5gTOP7uq0TNZZv9AzJulY-KZA",
+        "https://i9.ytimg.com/vi/fr7pB_QX0-k/maxresdefault.jpg?sqp=COT7gcQG-oaymwEmCIAKENAF8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGMgYyhjMA8=&rs=AOn4CLD2oUbUA8k581CXv6afyOtf2BmvNA"
+      ]
+    }
+  ],
+  "skipped_videos": [
+    {
+      "title": "녹화 2023 07 18 12 57 07 48",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "XO_Og5IA668"
+    },
+    {
+      "title": "피시방에서 밤샐 때",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "KJ7ZCkYs4DM"
+    },
+    {
+      "title": "통쾌",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "3VlAnzO3KNE"
+    },
+    {
+      "title": "2020년 11월 6일",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "myAGbtOYKdU"
+    },
+    {
+      "title": "20200801 정철호 차 안에서",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "FkcJhI0KVSU"
+    },
+    {
+      "title": "펜션4",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "t0yDb0Hn3nE"
+    },
+    {
+      "title": "20200801 서중얘들이랑 펜션1",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "X795CDs4Gn4"
+    },
+    {
+      "title": "20200712 밤샘피방",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "UQqhT0zqI8E"
+    },
+    {
+      "title": "20200619 문경 집에서",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "J-n6bqmVDnI"
+    },
+    {
+      "title": "정철호 우리집 온 날 20200516",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "UDUoahydtrA"
+    },
+    {
+      "title": "record f",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "6QK3QCskRbw"
+    },
+    {
+      "title": "record m",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "_fJ9biX0NmI"
+    },
+    {
+      "title": "record",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "BQXkdfCxyes"
+    },
+    {
+      "title": "record friends",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "g9ZDwYeW0hU"
+    },
+    {
+      "title": "record mom laugh",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "7RfSOmbTi3w"
+    },
+    {
+      "title": "record",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "bap2J_rwzjM"
+    },
+    {
+      "title": "record 3",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "F2h7eihQ-lI"
+    },
+    {
+      "title": "%G8SDFWD@%F841FSWD45",
+      "privacy": "VIDEO_PRIVACY_PRIVATE",
+      "videoId": "r9D3Mt_NJDM"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+name: Build YouTube Studio Monitor
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+  workflow_dispatch:  # 수동 실행 가능
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        include:
+          - os: windows-latest
+            output_name: YouTubeStudioMonitor.exe
+            asset_name: YouTubeStudioMonitor_Windows.exe
+          - os: macos-latest
+            output_name: YouTubeStudioMonitor
+            asset_name: YouTubeStudioMonitor_macOS
+          - os: ubuntu-latest
+            output_name: YouTubeStudioMonitor
+            asset_name: YouTubeStudioMonitor_Linux
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pyinstaller
+        pip install -r requirements.txt
+
+    - name: Build with PyInstaller
+      run: |
+        pyinstaller build_config.spec
+
+    - name: Rename output file
+      shell: bash
+      run: |
+        if [ "${{ matrix.os }}" = "windows-latest" ]; then
+          mv "dist/YouTubeStudioMonitor.exe" "dist/${{ matrix.asset_name }}"
+        else
+          mv "dist/YouTubeStudioMonitor" "dist/${{ matrix.asset_name }}"
+          chmod +x "dist/${{ matrix.asset_name }}"
+        fi
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: ${{ matrix.asset_name }}
+        path: dist/${{ matrix.asset_name }}
+
+  create-release:
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' || (github.event_name == 'push' && contains(github.ref, 'refs/tags/'))
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Download all artifacts
+      uses: actions/download-artifact@v4
+      with:
+        path: artifacts
+
+    - name: Create Release Package
+      run: |
+        mkdir -p release
+        
+        # Windows 패키지
+        mkdir -p "release/YouTubeStudioMonitor_Windows"
+        cp "artifacts/YouTubeStudioMonitor_Windows.exe/YouTubeStudioMonitor_Windows.exe" "release/YouTubeStudioMonitor_Windows/"
+        cp "간단사용법.txt" "release/YouTubeStudioMonitor_Windows/"
+        cp "README_BUILD.md" "release/YouTubeStudioMonitor_Windows/"
+        
+        # macOS 패키지  
+        mkdir -p "release/YouTubeStudioMonitor_macOS"
+        cp "artifacts/YouTubeStudioMonitor_macOS/YouTubeStudioMonitor_macOS" "release/YouTubeStudioMonitor_macOS/"
+        cp "간단사용법.txt" "release/YouTubeStudioMonitor_macOS/"
+        cp "README_BUILD.md" "release/YouTubeStudioMonitor_macOS/"
+        
+        # Linux 패키지
+        mkdir -p "release/YouTubeStudioMonitor_Linux"
+        cp "artifacts/YouTubeStudioMonitor_Linux/YouTubeStudioMonitor_Linux" "release/YouTubeStudioMonitor_Linux/"
+        cp "간단사용법.txt" "release/YouTubeStudioMonitor_Linux/"
+        cp "README_BUILD.md" "release/YouTubeStudioMonitor_Linux/"
+        
+        # 압축 파일 생성
+        cd release
+        tar -czf YouTubeStudioMonitor_Windows.tar.gz YouTubeStudioMonitor_Windows/
+        tar -czf YouTubeStudioMonitor_macOS.tar.gz YouTubeStudioMonitor_macOS/ 
+        tar -czf YouTubeStudioMonitor_Linux.tar.gz YouTubeStudioMonitor_Linux/
+
+    - name: Upload Release Packages
+      uses: actions/upload-artifact@v4
+      with:
+        name: Release-Packages
+        path: |
+          release/*.tar.gz 
