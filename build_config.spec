@@ -17,6 +17,9 @@ a = Analysis(
     ],
     hiddenimports=[
         'pandas',
+        'numpy',
+        'numpy.core',
+        'numpy.core._dtype_ctypes',
         'openpyxl',
         'openpyxl.styles',
         'openpyxl.drawing.image',
@@ -26,8 +29,21 @@ a = Analysis(
         'requests',
         'urllib3',
         'PIL',
+        'PIL.Image',
         'platform',
-        'shutil'
+        'shutil',
+        'threading',
+        'json',
+        'datetime',
+        'time',
+        're',
+        'os',
+        'subprocess',
+        'webbrowser',
+        'pathlib',
+        'io',
+        'tempfile',
+        'urllib.request'
     ],
     hookspath=[],
     hooksconfig={},
@@ -39,7 +55,10 @@ a = Analysis(
         'test',
         'unittest',
         'pydoc',
-        'doctest'
+        'doctest',
+        'scipy',
+        'IPython',
+        'jupyter'
     ],
     win_no_prefer_redirects=False,
     win_private_assemblies=False,
@@ -47,6 +66,7 @@ a = Analysis(
     noarchive=False,
 )
 
+# numpy/pandas 바이너리 호환성 문제 해결을 위한 추가 설정
 pyz = PYZ(a.pure, a.zipped_data, cipher=block_cipher)
 
 exe = EXE(
@@ -60,7 +80,7 @@ exe = EXE(
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
-    upx=True,
+    upx=False,  # upx 비활성화로 호환성 개선
     upx_exclude=[],
     runtime_tmpdir=None,
     console=True,  # 콘솔 창 표시 (로그 확인용)
